@@ -1,0 +1,29 @@
+
+;; ----- smex-history -----
+(
+ uncomment-region
+ shell
+ comment-region
+ list-colors-display
+ org-mode
+ diff
+ python-mode
+)
+
+;; ----- smex-data -----
+(
+ (shell . 84)
+ (comment-region . 40)
+ (uncomment-region . 30)
+ (org-mode . 4)
+ (count-words . 10)
+ (goto-line . 4)
+ (bibtex-mode . 1)
+ (count-words-region . 1)
+ (mouse-secondary-save-then-kill . 1)
+ (diff . 16)
+ (diff-mode . 1)
+ (python-mode . 1)
+ (org-beamer-insert-options-template . 1)
+ (list-colors-display . 2)
+)

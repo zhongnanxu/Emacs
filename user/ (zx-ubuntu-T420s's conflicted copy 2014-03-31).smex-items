@@ -1,0 +1,22 @@
+
+;; ----- smex-history -----
+(
+ uncomment-region
+ comment-region
+ org-mode
+ goto-line
+ shell
+ count-words
+ bibtex-mode
+)
+
+;; ----- smex-data -----
+(
+ (shell . 52)
+ (comment-region . 10)
+ (uncomment-region . 14)
+ (org-mode . 4)
+ (count-words . 5)
+ (goto-line . 4)
+ (bibtex-mode . 1)
+)
