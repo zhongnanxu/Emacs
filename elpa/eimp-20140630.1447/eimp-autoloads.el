@@ -12,7 +12,7 @@
 ;;;;;;  eimp-mouse-resize-image eimp-fit-image-width-to-window eimp-fit-image-height-to-window
 ;;;;;;  eimp-fit-image-to-whole-window eimp-fit-image-to-window eimp-decrease-image-size
 ;;;;;;  eimp-increase-image-size eimp-negate-image eimp-stop-all
-;;;;;;  eimp-mode) "eimp" "eimp.el" (21483 54106 706891 655000))
+;;;;;;  eimp-mode) "eimp" "eimp.el" (21674 48393 236019 790000))
 ;;; Generated autoloads from eimp.el
 
 (autoload 'eimp-mode "eimp" "\
@@ -159,7 +159,7 @@ Roll image down by ARG pixels.
 
 ;;;***
 
-;;;### (autoloads nil nil ("eimp-pkg.el") (21483 54106 823275 0))
+;;;### (autoloads nil nil ("eimp-pkg.el") (21674 48393 394504 791000))
 
 ;;;***
 

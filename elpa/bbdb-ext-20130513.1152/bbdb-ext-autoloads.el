@@ -6,7 +6,7 @@
 ;;;### (autoloads (bbdb-address bbdb-recursive-search-address bbdb-recursive-search-phones
 ;;;;;;  bbdb-recursive-search-notes bbdb-recursive-search-net bbdb-recursive-search-company
 ;;;;;;  bbdb-recursive-search-name bbdb-recursive-search bbdb-google-map)
-;;;;;;  "bbdb-ext" "bbdb-ext.el" (21239 54522 0 0))
+;;;;;;  "bbdb-ext" "bbdb-ext.el" (21674 48356 156018 909000))
 ;;; Generated autoloads from bbdb-ext.el
 
 (autoload 'bbdb-google-map "bbdb-ext" "\
@@ -59,8 +59,8 @@ Display all entries in the BBDB matching the REGEX in the address field.
 
 ;;;***
 
-;;;### (autoloads nil nil ("bbdb-ext-pkg.el") (21239 54522 964000
-;;;;;;  0))
+;;;### (autoloads nil nil ("bbdb-ext-pkg.el") (21674 48356 244664
+;;;;;;  865000))
 
 ;;;***
 
