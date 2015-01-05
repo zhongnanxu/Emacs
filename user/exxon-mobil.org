@@ -1,0 +1,10 @@
+* DONE Prepare tutorial on performing linear response calculations
+  DEADLINE: <2014-03-24 Mon>
+* DONE Send python scripts for validating DFT+U(V) bulk structures
+  DEADLINE: <2014-03-24 Mon>
+* DONE Send python scripts for validating DFT+U(V) EvsU behavior
+  DEADLINE: <2014-04-11 Fri>
+* DONE Send scripts calculating linear response U values of VO2 to Exxon
+  CLOSED: [2014-05-14 Wed 15:12] DEADLINE: <2014-05-14 Wed>
+* DONE Verify space group module in ASE
+  CLOSED: [2014-05-14 Wed 14:39] DEADLINE: <2014-05-14 Wed>

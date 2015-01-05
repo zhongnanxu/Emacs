@@ -9,7 +9,7 @@
 (defconst zx-emacs-dir (file-name-directory (or load-file-name (buffer-file-name)))
     "directory where the starterkit is installed")
 
-(defvar zx-user-dir (expand-file-name "user" zx-emacs-dir)
+(defvar zx-user-dir (expand-file-name "user/" zx-emacs-dir)
   "user directory for personal code")
 
 (add-to-list 'load-path zx-emacs-dir)

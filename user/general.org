@@ -1,0 +1,34 @@
+* DONE Copy format of command prompt from lenovo laptop
+  DEADLINE: <2014-03-07 Fri>
+* DONE Talk to John about going to Exxon Mobil for a tutorial session
+  DEADLINE: <2014-03-07 Fri>
+* DONE Send Yogesh some oxide calculations for verification
+  DEADLINE: <2014-03-14 Fri>
+* DONE Plan trip to Exxon Mobil
+  DEADLINE: <2014-03-10 Mon>
+* DONE Present research update at group meeting
+  DEADLINE: <2014-03-12 Wed 9:00-11:00>
+* DONE Judge science fair at Heinz Field
+  SCHEDULED: <2014-03-28 Fri>
+* DONE Prepare tutorial plan to introduce to Exxon Mobil
+  DEADLINE: <2014-03-18 Tue>
+* DONE Prepare presentation to give to exxon mobil for using quantum-espresso and ase
+  DEADLINE: <2014-03-18 Tue>
+* DONE Edit espresso.py to check for a finished run
+  DEADLINE: <2014-03-13 Thu>
+* DONE Submit abstract(s) to AICHE
+  DEADLINE: <2014-05-12 Mon>
+* DONE Submit abstract to PCCS
+  DEADLINE: <2014-04-30 Wed>
+* DONE Examine bug when running calc.get_linear_response_Us
+  DEADLINE: <2014-04-07 Mon>
+* DONE Prepare group presentation on modeling nickel hydroxides
+  SCHEDULED: <2014-04-08 Tue>
+* DONE Prepare first draft of DFT+U lecture
+  DEADLINE: <2014-04-18 Fri>
+* DONE Write abstract for ChEGSA Symposium
+  CLOSED: [2014-09-26 Fri 12:18] DEADLINE: <2014-09-29 Mon>
+* DONE Prepare powerpoint on Wolverton LD-GGA+U paper
+  CLOSED: [2014-10-07 Tue 07:35] DEADLINE: <2014-10-03 Fri>
+* DONE Check get_fermi_level error
+  CLOSED: [2014-09-29 Mon 10:13] SCHEDULED: <2014-09-29 Mon>

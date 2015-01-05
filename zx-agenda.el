@@ -1,14 +1,10 @@
 (defvar rdir (concat zx-emacs-dir "../research/"))
 
-;; Add personal TODO list to agenda
-(defvar personal (list (concat zx-emacs-dir "../personal/personal.org")))
-
 ;; Add misc agenda files to the agenda
-(defvar misc-agenda (list (concat rdir "zhongnax/zhongnax.org")
-			  (concat rdir "general.org")
-			  (concat rdir "papers.org")
-			  (concat rdir "exxon-mobil.org")
-			  (concat rdir "notebook.org")
+(defvar misc-agenda (list (concat zx-user-dir "general.org")
+			  (concat zx-user-dir "papers.org")
+			  (concat zx-user-dir "exxon-mobil.org")
+			  (concat zx-user-dir "notebook.org")
 			  ))
 
 ;; ;; Add active projects to the agenda
@@ -22,11 +18,9 @@
 ;; 		       ))
 
 ;; Add active projects to the agenda
-(defvar act-proj (append (sa-find-org-file-recursively (concat rdir "rutile-OER"))
-			 ; (sa-find-org-file-recursively (concat rdir "spinels-dftuv"))
+
+(defvar act-proj (append ; (sa-find-org-file-recursively (concat rdir "spinels-dftuv"))
 			 ; (sa-find-org-file-recursively (concat rdir "nickel-hydroxides"))
-			 (sa-find-org-file-recursively (concat rdir "DFT+U-V"))
-			 (sa-find-org-file-recursively (concat rdir "doped-rutiles"))
 			 (sa-find-org-file-recursively (concat rdir "DFT+U-V-bulk"))
 			 (sa-find-org-file-recursively (concat rdir "NiO-adsorption"))
 			 (sa-find-org-file-recursively (concat rdir "oxide-polymorphs-OER"))
@@ -38,6 +32,8 @@
 ;; (setq org-agenda-files
 ;;       (append (sa-find-org-file-recursively rdir)))
 
-(setq org-agenda-files (append misc-agenda act-proj personal))
+(if (string= system-name "gilgamesh.cheme.cmu.edu")
+    (setq org-agenda-files (append misc-agenda act-proj))
+  (setq org-agenda-files (append misc-agenda)))
 
 (provide 'zx-agenda)
