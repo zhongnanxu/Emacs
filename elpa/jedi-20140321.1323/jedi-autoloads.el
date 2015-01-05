@@ -6,7 +6,7 @@
 ;;;### (autoloads (jedi:install-server-block jedi:install-server
 ;;;;;;  jedi:setup anything-jedi-related-names helm-jedi-related-names
 ;;;;;;  jedi:ac-setup jedi:complete jedi:start-dedicated-server)
-;;;;;;  "jedi" "jedi.el" (21674 48464 636021 487000))
+;;;;;;  "jedi" "jedi.el" (21674 49205 12039 84000))
 ;;; Generated autoloads from jedi.el
 
 (autoload 'jedi:start-dedicated-server "jedi" "\
@@ -116,7 +116,7 @@ Blocking version `jedi:install-server'.
 
 ;;;***
 
-;;;### (autoloads nil nil ("jedi-pkg.el") (21674 48464 890537 340000))
+;;;### (autoloads nil nil ("jedi-pkg.el") (21674 49205 184110 31000))
 
 ;;;***
 

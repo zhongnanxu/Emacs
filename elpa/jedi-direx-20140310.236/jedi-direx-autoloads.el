@@ -4,7 +4,7 @@
 
 
 ;;;### (autoloads (jedi-direx:setup jedi-direx:switch-to-buffer jedi-direx:pop-to-buffer)
-;;;;;;  "jedi-direx" "jedi-direx.el" (21674 48466 20021 520000))
+;;;;;;  "jedi-direx" "jedi-direx.el" (21674 49206 516039 119000))
 ;;; Generated autoloads from jedi-direx.el
 
 (autoload 'jedi-direx:pop-to-buffer "jedi-direx" "\
@@ -24,8 +24,8 @@ Add it to `jedi-mode-hook' to use jedi-direx.
 
 ;;;***
 
-;;;### (autoloads nil nil ("jedi-direx-pkg.el") (21674 48466 168949
-;;;;;;  738000))
+;;;### (autoloads nil nil ("jedi-direx-pkg.el") (21674 49206 618383
+;;;;;;  943000))
 
 ;;;***
 

@@ -8,7 +8,7 @@
       '(("org"         . "http://orgmode.org/elpa/")
 	("gnu"         . "http://elpa.gnu.org/packages/")
 ;	("original"    . "http://tromey.com/elpa/")	
-	("melpa" . "http://melpa.milkbox.net/packages/")
+	("melpa" . "http://melpa.org/packages/" )
 ;	("marmalade"   . "http://marmalade-repo.org/packages/")
 	))
 
@@ -26,7 +26,7 @@
 	'diminish
 	'eimp
 	;'icicles
-	'org 'org-plus-contrib
+	'org-plus-contrib
 	'elpy
 	'jedi 'jedi-direx
 	'f ; file functions https://github.com/rejeep/f.el

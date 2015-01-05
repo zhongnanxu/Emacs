@@ -4,7 +4,7 @@
 
 
 ;;;### (autoloads (elpy-version elpy-config elpy-mode elpy-enable)
-;;;;;;  "elpy" "elpy.el" (21674 48446 828021 64000))
+;;;;;;  "elpy" "elpy.el" (21674 49185 548038 621000))
 ;;; Generated autoloads from elpy.el
 
 (autoload 'elpy-enable "elpy" "\
@@ -43,7 +43,7 @@ Display the version of Elpy.
 ;;;***
 
 ;;;### (autoloads nil nil ("elpy-pkg.el" "elpy-refactor.el") (21674
-;;;;;;  48454 569160 119000))
+;;;;;;  49195 988842 911000))
 
 ;;;***
 

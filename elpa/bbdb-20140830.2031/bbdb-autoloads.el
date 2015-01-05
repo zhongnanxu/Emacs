@@ -4,7 +4,7 @@
 
 
 ;;;### (autoloads (bbdb-initialize bbdb-version bbdb-mode) "bbdb"
-;;;;;;  "bbdb.el" (21674 48351 832018 806000))
+;;;;;;  "bbdb.el" (21674 49092 440036 408000))
 ;;; Generated autoloads from bbdb.el
 
 (defsubst bbdb-records nil "\
@@ -122,7 +122,7 @@ for example only for outgoing messages.
 ;;;***
 
 ;;;### (autoloads (bbdb-anniv-diary-entries) "bbdb-anniv" "bbdb-anniv.el"
-;;;;;;  (21674 48351 644018 802000))
+;;;;;;  (21674 49092 280036 404000))
 ;;; Generated autoloads from bbdb-anniv.el
 
 (autoload 'bbdb-anniv-diary-entries "bbdb-anniv" "\
@@ -150,7 +150,7 @@ To enable this feature, put the following into your .emacs:
 ;;;;;;  bbdb-search-mail bbdb-search-address bbdb-search-organization
 ;;;;;;  bbdb-search-name bbdb bbdb-search-invert bbdb-append-display
 ;;;;;;  bbdb-append-display-p bbdb-do-records bbdb-do-all-records)
-;;;;;;  "bbdb-com" "bbdb-com.el" (21674 48352 92018 813000))
+;;;;;;  "bbdb-com" "bbdb-com.el" (21674 49092 844036 418000))
 ;;; Generated autoloads from bbdb-com.el
 
 (autoload 'bbdb-do-all-records "bbdb-com" "\
@@ -515,7 +515,7 @@ Interactively, use BBDB prefix \\<bbdb-mode-map>\\[bbdb-do-all-records], see `bb
 ;;;***
 
 ;;;### (autoloads (bbdb-insinuate-gnus bbdb/gnus-split-method bbdb/gnus-score)
-;;;;;;  "bbdb-gnus" "bbdb-gnus.el" (21674 48351 924018 809000))
+;;;;;;  "bbdb-gnus" "bbdb-gnus.el" (21674 49092 556036 411000))
 ;;; Generated autoloads from bbdb-gnus.el
 
 (autoload 'bbdb/gnus-score "bbdb-gnus" "\
@@ -544,7 +544,7 @@ Do not call this in your init file.  Use `bbdb-initialize'.
 ;;;***
 
 ;;;### (autoloads (bbdb-ispell-export) "bbdb-ispell" "bbdb-ispell.el"
-;;;;;;  (21674 48352 120018 813000))
+;;;;;;  (21674 49092 876036 418000))
 ;;; Generated autoloads from bbdb-ispell.el
 
 (autoload 'bbdb-ispell-export "bbdb-ispell" "\
@@ -555,7 +555,7 @@ Export BBDB records to ispell personal dictionaries.
 ;;;***
 
 ;;;### (autoloads (bbdb-insinuate-mail bbdb-insinuate-message) "bbdb-message"
-;;;;;;  "bbdb-message.el" (21674 48351 376018 796000))
+;;;;;;  "bbdb-message.el" (21674 49092 52036 399000))
 ;;; Generated autoloads from bbdb-message.el
 
 (autoload 'bbdb-insinuate-message "bbdb-message" "\
@@ -573,7 +573,7 @@ Do not call this in your init file.  Use `bbdb-initialize'.
 ;;;***
 
 ;;;### (autoloads (bbdb-insinuate-mh) "bbdb-mhe" "bbdb-mhe.el" (21674
-;;;;;;  48351 784018 805000))
+;;;;;;  49092 388036 407000))
 ;;; Generated autoloads from bbdb-mhe.el
 
 (autoload 'bbdb-insinuate-mh "bbdb-mhe" "\
@@ -585,7 +585,7 @@ Do not call this in your init file.  Use `bbdb-initialize'.
 ;;;***
 
 ;;;### (autoloads (bbdb-undocumented-variables bbdb-migrate) "bbdb-migrate"
-;;;;;;  "bbdb-migrate.el" (21674 48351 336018 795000))
+;;;;;;  "bbdb-migrate.el" (21674 49091 836036 394000))
 ;;; Generated autoloads from bbdb-migrate.el
 
 (autoload 'bbdb-migrate "bbdb-migrate" "\
@@ -615,7 +615,7 @@ for outdated BBDB variables that are set via your personal `custom-file'.
 ;;;;;;  bbdb-mua-display-recipients bbdb-mua-display-sender bbdb-mua-display-records
 ;;;;;;  bbdb-update-records bbdb-select-message bbdb-ignore-message
 ;;;;;;  bbdb-accept-message bbdb-message-header) "bbdb-mua" "bbdb-mua.el"
-;;;;;;  (21674 48351 232018 792000))
+;;;;;;  (21674 49091 596036 388000))
 ;;; Generated autoloads from bbdb-mua.el
 
 (autoload 'bbdb-message-header "bbdb-mua" "\
@@ -809,7 +809,7 @@ For use as an element of `bbdb-notice-record-hook'.
 ;;;***
 
 ;;;### (autoloads (bbdb-pgp bbdb-read-xfield-pgp-mail) "bbdb-pgp"
-;;;;;;  "bbdb-pgp.el" (21674 48351 976018 810000))
+;;;;;;  "bbdb-pgp.el" (21674 49092 668036 413000))
 ;;; Generated autoloads from bbdb-pgp.el
 
 (autoload 'bbdb-read-xfield-pgp-mail "bbdb-pgp" "\
@@ -842,7 +842,7 @@ to call the command `bbdb-pgp' manually, then call `mml-preview'.
 ;;;***
 
 ;;;### (autoloads (bbdb-print) "bbdb-print" "bbdb-print.el" (21674
-;;;;;;  48351 476018 798000))
+;;;;;;  49092 236036 403000))
 ;;; Generated autoloads from bbdb-print.el
 
 (autoload 'bbdb-print "bbdb-print" "\
@@ -858,7 +858,7 @@ of the printout, notably the variables `bbdb-print-alist' and
 ;;;***
 
 ;;;### (autoloads (bbdb-insinuate-rmail) "bbdb-rmail" "bbdb-rmail.el"
-;;;;;;  (21674 48352 24018 811000))
+;;;;;;  (21674 49092 724036 415000))
 ;;; Generated autoloads from bbdb-rmail.el
 
 (autoload 'bbdb-insinuate-rmail "bbdb-rmail" "\
@@ -870,7 +870,7 @@ Do not call this in your init file.  Use `bbdb-initialize'.
 ;;;***
 
 ;;;### (autoloads (bbdb-insinuate-sc bbdb-sc-update-from) "bbdb-sc"
-;;;;;;  "bbdb-sc.el" (21674 48351 268018 793000))
+;;;;;;  "bbdb-sc.el" (21674 49091 708036 391000))
 ;;; Generated autoloads from bbdb-sc.el
 
 (autoload 'bbdb-sc-update-from "bbdb-sc" "\
@@ -891,7 +891,7 @@ BBDB into Supercite.
 ;;;***
 
 ;;;### (autoloads (bbdb-snarf bbdb-snarf-yank bbdb-snarf-paragraph)
-;;;;;;  "bbdb-snarf" "bbdb-snarf.el" (21674 48351 300018 794000))
+;;;;;;  "bbdb-snarf" "bbdb-snarf.el" (21674 49091 768036 392000))
 ;;; Generated autoloads from bbdb-snarf.el
 
 (autoload 'bbdb-snarf-paragraph "bbdb-snarf" "\
@@ -924,7 +924,7 @@ See `bbdb-snarf-rule-alist' for details.
 ;;;### (autoloads (bbdb-insinuate-vm bbdb/vm-virtual-folder bbdb/vm-auto-folder
 ;;;;;;  bbdb/vm-virtual-real-folders bbdb/vm-virtual-folder-field
 ;;;;;;  bbdb/vm-auto-folder-field bbdb/vm-auto-folder-headers) "bbdb-vm"
-;;;;;;  "bbdb-vm.el" (21674 48351 408018 796000))
+;;;;;;  "bbdb-vm.el" (21674 49092 144036 401000))
 ;;; Generated autoloads from bbdb-vm.el
 
 (defvar bbdb/vm-auto-folder-headers '("From:" "To:" "CC:") "\
@@ -989,8 +989,8 @@ Do not call this in your init file.  Use `bbdb-initialize'.
 
 ;;;***
 
-;;;### (autoloads nil nil ("bbdb-pkg.el" "bbdb-site.el") (21674 48352
-;;;;;;  281813 730000))
+;;;### (autoloads nil nil ("bbdb-pkg.el" "bbdb-site.el") (21674 49093
+;;;;;;  16106 490000))
 
 ;;;***
 

@@ -9,7 +9,7 @@
 ;;;;;;  org-run-like-in-org-mode turn-on-orgstruct++ turn-on-orgstruct
 ;;;;;;  orgstruct-mode org-global-cycle org-cycle org-mode org-clock-persistence-insinuate
 ;;;;;;  turn-on-orgtbl org-version org-babel-load-file org-babel-do-load-languages)
-;;;;;;  "org" "org.el" (21674 48409 224020 170000))
+;;;;;;  "org" "org.el" (21674 49153 504037 859000))
 ;;; Generated autoloads from org.el
 
 (autoload 'org-babel-do-load-languages "org" "\
@@ -236,7 +236,7 @@ Call the customize function with org as argument.
 ;;;;;;  org-search-view org-agenda-list org-batch-store-agenda-views
 ;;;;;;  org-store-agenda-views org-batch-agenda-csv org-batch-agenda
 ;;;;;;  org-agenda org-toggle-sticky-agenda) "org-agenda" "org-agenda.el"
-;;;;;;  (21674 48401 832019 995000))
+;;;;;;  (21674 49148 488037 740000))
 ;;; Generated autoloads from org-agenda.el
 
 (autoload 'org-toggle-sticky-agenda "org-agenda" "\
@@ -510,7 +510,7 @@ to override `appt-message-warning-time'.
 ;;;***
 
 ;;;### (autoloads (org-bullets-mode) "org-bullets" "org-bullets.el"
-;;;;;;  (21674 48402 152020 2000))
+;;;;;;  (21674 49148 992037 752000))
 ;;; Generated autoloads from org-bullets.el
 
 (autoload 'org-bullets-mode "org-bullets" "\
@@ -522,7 +522,7 @@ UTF-8 bullets for `org-mode'.
 
 ;;;### (autoloads (org-capture-import-remember-templates org-capture
 ;;;;;;  org-capture-string) "org-capture" "org-capture.el" (21674
-;;;;;;  48402 188020 3000))
+;;;;;;  49149 112037 755000))
 ;;; Generated autoloads from org-capture.el
 
 (autoload 'org-capture-string "org-capture" "\
@@ -567,7 +567,7 @@ Set `org-capture-templates' to be similar to `org-remember-templates'.
 ;;;### (autoloads (org-agenda-columns org-insert-columns-dblock org-dblock-write:columnview
 ;;;;;;  org-columns-number-to-string org-columns-compute org-columns
 ;;;;;;  org-columns-get-format-and-top-level org-columns-remove-overlays)
-;;;;;;  "org-colview" "org-colview.el" (21674 48402 380020 8000))
+;;;;;;  "org-colview" "org-colview.el" (21674 49149 536037 765000))
 ;;; Generated autoloads from org-colview.el
 
 (autoload 'org-columns-remove-overlays "org-colview" "\
@@ -631,7 +631,7 @@ Turn on or update column view in the agenda.
 ;;;***
 
 ;;;### (autoloads (org-check-version) "org-compat" "org-compat.el"
-;;;;;;  (21674 48402 424020 9000))
+;;;;;;  (21674 49149 600037 767000))
 ;;; Generated autoloads from org-compat.el
 
 (autoload 'org-check-version "org-compat" "\
@@ -642,7 +642,7 @@ Try very hard to provide sensible version strings.
 ;;;***
 
 ;;;### (autoloads (org-contacts) "org-contacts" "org-contacts.el"
-;;;;;;  (21674 48402 456020 10000))
+;;;;;;  (21674 49149 648037 768000))
 ;;; Generated autoloads from org-contacts.el
 
 (autoload 'org-contacts "org-contacts" "\
@@ -653,7 +653,7 @@ Create agenda view for contacts matching NAME.
 ;;;***
 
 ;;;### (autoloads (org-load-noerror-mustsuffix) "org-macs" "org-macs.el"
-;;;;;;  (21674 48406 276020 100000))
+;;;;;;  (21674 49151 568037 813000))
 ;;; Generated autoloads from org-macs.el
 
 (autoload 'org-load-noerror-mustsuffix "org-macs" "\
@@ -665,7 +665,7 @@ Load FILE with optional arguments NOERROR and MUSTSUFFIX.  Drop the MUSTSUFFIX a
 
 ;;;### (autoloads (org-registry-update org-registry-insinuate org-registry-initialize
 ;;;;;;  org-registry-visit org-registry-show) "org-registry" "org-registry.el"
-;;;;;;  (21674 48407 732020 135000))
+;;;;;;  (21674 49152 484037 835000))
 ;;; Generated autoloads from org-registry.el
 
 (autoload 'org-registry-show "org-registry" "\
@@ -704,7 +704,7 @@ Update the registry for the current Org file.
 
 ;;;### (autoloads (org-screenshot-show-unused org-screenshot-rotate-next
 ;;;;;;  org-screenshot-rotate-prev org-screenshot-take) "org-screenshot"
-;;;;;;  "org-screenshot.el" (21674 48407 952020 140000))
+;;;;;;  "org-screenshot.el" (21674 49152 584037 837000))
 ;;; Generated autoloads from org-screenshot.el
 
 (autoload 'org-screenshot-take "org-screenshot" "\
@@ -747,8 +747,8 @@ Open A Dired buffer with unused screenshots marked
 
 ;;;***
 
-;;;### (autoloads (org-toc-show) "org-toc" "org-toc.el" (21674 48408
-;;;;;;  592020 155000))
+;;;### (autoloads (org-toc-show) "org-toc" "org-toc.el" (21674 49153
+;;;;;;  4037 847000))
 ;;; Generated autoloads from org-toc.el
 
 (autoload 'org-toc-show "org-toc" "\
@@ -759,7 +759,7 @@ Show the table of contents of the current Org-mode buffer.
 ;;;***
 
 ;;;### (autoloads (org-track-compile-org org-track-fetch-package)
-;;;;;;  "org-track" "org-track.el" (21674 48408 696020 158000))
+;;;;;;  "org-track" "org-track.el" (21674 49153 96037 850000))
 ;;; Generated autoloads from org-track.el
 
 (autoload 'org-track-fetch-package "org-track" "\
@@ -781,7 +781,7 @@ DIRECTORY is where the directory org-mode/ lives (i.e. the
 ;;;***
 
 ;;;### (autoloads (org-git-version org-release) "org-version" "org-version.el"
-;;;;;;  (21674 48408 804020 160000))
+;;;;;;  (21674 49153 188037 852000))
 ;;; Generated autoloads from org-version.el
 
 (autoload 'org-release "org-version" "\
@@ -802,7 +802,7 @@ The location of ODT styles.")
 ;;;***
 
 ;;;### (autoloads (org-freemind-export-to-freemind) "ox-freemind"
-;;;;;;  "ox-freemind.el" (21674 48409 692020 182000))
+;;;;;;  "ox-freemind.el" (21674 49153 772037 866000))
 ;;; Generated autoloads from ox-freemind.el
 
 (autoload 'org-freemind-export-to-freemind "ox-freemind" "\
@@ -839,7 +839,7 @@ Return output file's name.
 
 ;;;### (autoloads (org-koma-letter-export-to-pdf org-koma-letter-export-to-latex
 ;;;;;;  org-koma-letter-export-as-latex) "ox-koma-letter" "ox-koma-letter.el"
-;;;;;;  (21674 48409 968020 188000))
+;;;;;;  (21674 49154 60037 873000))
 ;;; Generated autoloads from ox-koma-letter.el
 
 (autoload 'org-koma-letter-export-as-latex "ox-koma-letter" "\
@@ -940,7 +940,7 @@ Return PDF file's name.
 ;;;***
 
 ;;;### (autoloads (org-rss-publish-to-rss org-rss-export-to-rss org-rss-export-as-rss)
-;;;;;;  "ox-rss" "ox-rss.el" (21674 48410 464020 200000))
+;;;;;;  "ox-rss" "ox-rss.el" (21674 49154 360037 880000))
 ;;; Generated autoloads from ox-rss.el
 
 (autoload 'org-rss-export-as-rss "ox-rss" "\
@@ -1006,7 +1006,7 @@ Return output file name.
 
 ;;;### (autoloads (org-taskjuggler-export-process-and-open org-taskjuggler-export-and-process
 ;;;;;;  org-taskjuggler-export) "ox-taskjuggler" "ox-taskjuggler.el"
-;;;;;;  (21674 48410 576020 203000))
+;;;;;;  (21674 49154 444037 882000))
 ;;; Generated autoloads from ox-taskjuggler.el
 
 (autoload 'org-taskjuggler-export "ox-taskjuggler" "\
@@ -1127,7 +1127,7 @@ the reports is done using the TaskJuggler GUI.
 ;;;;;;  "ox-bibtex.el" "ox-confluence.el" "ox-deck.el" "ox-groff.el"
 ;;;;;;  "ox-html.el" "ox-icalendar.el" "ox-latex.el" "ox-man.el"
 ;;;;;;  "ox-md.el" "ox-odt.el" "ox-org.el" "ox-publish.el" "ox-s5.el"
-;;;;;;  "ox-texinfo.el" "ox.el") (21674 48411 407882 394000))
+;;;;;;  "ox-texinfo.el" "ox.el") (21674 49154 930070 998000))
 
 ;;;***
 

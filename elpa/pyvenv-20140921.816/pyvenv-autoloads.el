@@ -5,7 +5,7 @@
 
 ;;;### (autoloads (pyvenv-restart-python pyvenv-tracking-mode pyvenv-mode
 ;;;;;;  pyvenv-workon pyvenv-deactivate pyvenv-activate) "pyvenv"
-;;;;;;  "pyvenv.el" (21674 48438 628020 869000))
+;;;;;;  "pyvenv.el" (21674 49178 488038 453000))
 ;;; Generated autoloads from pyvenv.el
 
 (autoload 'pyvenv-activate "pyvenv" "\
@@ -65,7 +65,7 @@ Restart Python inferior processes.
 
 ;;;***
 
-;;;### (autoloads nil nil ("pyvenv-pkg.el") (21674 48438 784066 890000))
+;;;### (autoloads nil nil ("pyvenv-pkg.el") (21674 49178 744103 646000))
 
 ;;;***
 

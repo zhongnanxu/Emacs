@@ -3,8 +3,8 @@
 ;;; Code:
 
 
-;;;### (autoloads nil nil ("flx-pkg.el" "flx.el") (21674 48292 198765
-;;;;;;  972000))
+;;;### (autoloads nil nil ("flx-pkg.el" "flx.el") (21674 49029 347098
+;;;;;;  106000))
 
 ;;;***
 

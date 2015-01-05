@@ -4,7 +4,7 @@
 
 
 ;;;### (autoloads (turn-on-bib-cite bib-cite-minor-mode) "bib-cite"
-;;;;;;  "bib-cite.el" (21674 48361 912019 46000))
+;;;;;;  "bib-cite.el" (21674 49102 20036 636000))
 ;;; Generated autoloads from bib-cite.el
 
 (autoload 'bib-cite-minor-mode "bib-cite" "\
@@ -22,8 +22,8 @@ Unconditionally turn on Bib Cite mode.
 
 ;;;***
 
-;;;### (autoloads (context-mode) "context" "context.el" (21674 48375
-;;;;;;  892019 378000))
+;;;### (autoloads (context-mode) "context" "context.el" (21674 49123
+;;;;;;  216037 140000))
 ;;; Generated autoloads from context.el
 
 (defalias 'ConTeXt-mode 'context-mode)
@@ -43,7 +43,7 @@ of ConTeXt-mode-hook.
 ;;;***
 
 ;;;### (autoloads (context-en-mode) "context-en" "context-en.el"
-;;;;;;  (21674 48363 656019 87000))
+;;;;;;  (21674 49103 260036 665000))
 ;;; Generated autoloads from context-en.el
 
 (autoload 'context-en-mode "context-en" "\
@@ -61,7 +61,7 @@ of context-mode-hook.
 ;;;***
 
 ;;;### (autoloads (context-nl-mode) "context-nl" "context-nl.el"
-;;;;;;  (21674 48376 40019 382000))
+;;;;;;  (21674 49123 452037 145000))
 ;;; Generated autoloads from context-nl.el
 
 (autoload 'context-nl-mode "context-nl" "\
@@ -79,7 +79,7 @@ of context-mode-hook.
 ;;;***
 
 ;;;### (autoloads (font-latex-setup) "font-latex" "font-latex.el"
-;;;;;;  (21674 48361 960019 47000))
+;;;;;;  (21674 49102 72036 637000))
 ;;; Generated autoloads from font-latex.el
 
 (autoload 'font-latex-setup "font-latex" "\
@@ -90,7 +90,7 @@ Setup this buffer for LaTeX font-lock.  Usually called from a hook.
 ;;;***
 
 ;;;### (autoloads (docTeX-mode TeX-latex-mode BibTeX-auto-store)
-;;;;;;  "latex" "latex.el" (21674 48374 388019 343000))
+;;;;;;  "latex" "latex.el" (21674 49120 728037 80000))
 ;;; Generated autoloads from latex.el
 
 (autoload 'BibTeX-auto-store "latex" "\
@@ -128,7 +128,7 @@ runs the hooks in `docTeX-mode-hook'.
 ;;;***
 
 ;;;### (autoloads (multi-prompt-key-value multi-prompt) "multi-prompt"
-;;;;;;  "multi-prompt.el" (21674 48374 24019 334000))
+;;;;;;  "multi-prompt.el" (21674 49120 372037 72000))
 ;;; Generated autoloads from multi-prompt.el
 
 (autoload 'multi-prompt "multi-prompt" "\
@@ -158,7 +158,7 @@ The return value is the string as entered in the minibuffer.
 ;;;***
 
 ;;;### (autoloads (ams-tex-mode TeX-plain-tex-mode) "plain-tex" "plain-tex.el"
-;;;;;;  (21674 48374 336019 341000))
+;;;;;;  (21674 49120 676037 79000))
 ;;; Generated autoloads from plain-tex.el
 
 (autoload 'TeX-plain-tex-mode "plain-tex" "\
@@ -190,7 +190,7 @@ of `AmS-TeX-mode-hook'.
 ;;;***
 
 ;;;### (autoloads (preview-report-bug LaTeX-preview-setup preview-install-styles)
-;;;;;;  "preview" "preview.el" (21674 48373 876019 330000))
+;;;;;;  "preview" "preview.el" (21674 49120 196037 68000))
 ;;; Generated autoloads from preview.el
 
 (autoload 'preview-install-styles "preview" "\
@@ -222,8 +222,8 @@ Report a bug in the preview-latex package.
 ;;;***
 
 ;;;### (autoloads (TeX-submit-bug-report TeX-auto-generate-global
-;;;;;;  TeX-auto-generate TeX-tex-mode) "tex" "tex.el" (21674 48375
-;;;;;;  996019 381000))
+;;;;;;  TeX-auto-generate TeX-tex-mode) "tex" "tex.el" (21674 49123
+;;;;;;  336037 142000))
 ;;; Generated autoloads from tex.el
 
 (defalias 'TeX-assoc-string (symbol-function (if (featurep 'xemacs) 'assoc 'assoc-string)))
@@ -267,7 +267,7 @@ information about your AUCTeX version and AUCTeX configuration.
 ;;;***
 
 ;;;### (autoloads (LaTeX-install-toolbar TeX-install-toolbar) "tex-bar"
-;;;;;;  "tex-bar.el" (21674 48374 68019 335000))
+;;;;;;  "tex-bar.el" (21674 49120 416037 73000))
 ;;; Generated autoloads from tex-bar.el
 
 (autoload 'TeX-install-toolbar "tex-bar" "\
@@ -282,8 +282,8 @@ Install toolbar buttons for LaTeX mode.
 
 ;;;***
 
-;;;### (autoloads nil "tex-fold" "tex-fold.el" (21674 48363 772019
-;;;;;;  90000))
+;;;### (autoloads nil "tex-fold" "tex-fold.el" (21674 49103 556036
+;;;;;;  672000))
 ;;; Generated autoloads from tex-fold.el
  (autoload 'TeX-fold-mode "tex-fold" "Minor mode for hiding and revealing macros and environments." t)
 
@@ -292,7 +292,7 @@ Install toolbar buttons for LaTeX mode.
 ;;;***
 
 ;;;### (autoloads (tex-font-setup) "tex-font" "tex-font.el" (21674
-;;;;;;  48363 612019 86000))
+;;;;;;  49103 220036 664000))
 ;;; Generated autoloads from tex-font.el
 
 (autoload 'tex-font-setup "tex-font" "\
@@ -303,7 +303,7 @@ Setup font lock support for TeX.
 ;;;***
 
 ;;;### (autoloads (TeX-texinfo-mode) "tex-info" "tex-info.el" (21674
-;;;;;;  48363 360019 80000))
+;;;;;;  49103 44036 660000))
 ;;; Generated autoloads from tex-info.el
 
 (defalias 'Texinfo-mode 'texinfo-mode)
@@ -322,7 +322,7 @@ value of `Texinfo-mode-hook'.
 ;;;***
 
 ;;;### (autoloads (japanese-latex-mode japanese-plain-tex-mode) "tex-jp"
-;;;;;;  "tex-jp.el" (21674 48371 76019 264000))
+;;;;;;  "tex-jp.el" (21674 49116 76036 970000))
 ;;; Generated autoloads from tex-jp.el
 
 (autoload 'japanese-plain-tex-mode "tex-jp" "\
@@ -339,15 +339,15 @@ Set `japanese-TeX-mode' to t, and enter `TeX-latex-mode'.
 
 ;;;***
 
-;;;### (autoloads nil "tex-site" "tex-site.el" (21674 48361 532019
-;;;;;;  37000))
+;;;### (autoloads nil "tex-site" "tex-site.el" (21674 49101 728036
+;;;;;;  629000))
 ;;; Generated autoloads from tex-site.el
  (require 'tex-site)
 
 ;;;***
 
 ;;;### (autoloads (texmathp-match-switch texmathp) "texmathp" "texmathp.el"
-;;;;;;  (21674 48373 968019 333000))
+;;;;;;  (21674 49120 280037 70000))
 ;;; Generated autoloads from texmathp.el
 
 (autoload 'texmathp "texmathp" "\
@@ -367,8 +367,8 @@ Limit searched to BOUND.
 
 ;;;***
 
-;;;### (autoloads nil "toolbar-x" "toolbar-x.el" (21674 48371 272019
-;;;;;;  268000))
+;;;### (autoloads nil "toolbar-x" "toolbar-x.el" (21674 49116 356036
+;;;;;;  976000))
 ;;; Generated autoloads from toolbar-x.el
  (autoload 'toolbarx-install-toolbar "toolbar-x")
 
@@ -376,7 +376,7 @@ Limit searched to BOUND.
 
 ;;;### (autoloads nil nil ("auctex-pkg.el" "auctex.el" "prv-emacs.el"
 ;;;;;;  "prv-xemacs.el" "tex-buf.el" "tex-mik.el" "tex-style.el"
-;;;;;;  "tex-wizard.el") (21674 48376 100762 426000))
+;;;;;;  "tex-wizard.el") (21674 49123 567157 72000))
 
 ;;;***
 
