@@ -4,3 +4,6 @@
 [submodule "org-mode"]
 	path = org-mode
 	url = https://github.com/jwiegley/org-mode.git
+[submodule "jmax"]
+	path = jmax
+	url = https://github.com/jkitchin/jmax.git
