@@ -1,0 +1,6 @@
+[submodule "jasp"]
+	path = jasp
+	url = https://github.com/jkitchin/jasp.git
+[submodule "org-mode"]
+	path = org-mode
+	url = https://github.com/jwiegley/org-mode.git
