@@ -1,16 +1,17 @@
-* Assessment of the stability and activity of single atom catalysis
+* Project ideas
+** Assessment of the stability and activity of single atom catalysis
 There have not been too many computational studies on this point. One of the few ones I could find was one that studied Fe adsorption on phosphine cite:kulish-2015-adsor, but there aren't that many results and the analysis isn't too strong. I wonder if many computationalists are not as interested in this. I guess supported nanoclusters have been studied in a while. Also the excitement for this single atom catalysis could be dwindling.
 
-* Thermodynamic models for predicting surface segregation of mixed oxides
-** TODO Should probably read this article cite:richter-2013-concen-vacan.
-* Project with organic perovskites for solar cell applications -- possibly an interface study
-* Trends in reactivity of other inorganic compounds (nitrides, carbides, phosphides, sulfides)
+** Thermodynamic models for predicting surface segregation of mixed oxides
+*** TODO Should probably read this article cite:richter-2013-concen-vacan.
+** Project with organic perovskites for solar cell applications -- possibly an interface study
+** Trends in reactivity of other inorganic compounds (nitrides, carbides, phosphides, sulfides)
 
 A recent experimental paper from Jaramillo cite:kibsgaard-2014-molyb-phosp showed a mixed Sulfide/Phosphide was active for hydrogen evolution.
 
 It seems like a majority of these deviations are done on very high surface-energy facts with many broken bonds. Higher quality work would take into account these considerations cite:michalsky-2014-depar-adsor.
 
-* Understanding coverage effects on transition metal compounds
+** Understanding coverage effects on transition metal compounds
 
 Results from Michalsky cite:michalsky-2014-depar-adsor also show a coverage effect for transition metal carbides with coadsorbed oxygen atoms. These are more apparent on reduced surfaces. I wonder if coverage is meaningful to investigate. I should look at a previous study of coverage
 
@@ -19,3 +20,37 @@ From their results of Scheffler cite:reuter-2003-compos-co,reuter-2004-stead-sta
 However, Rossmeisl has found up to a 1-2 eV effect of coverage on O and OH on both RuO2 and IrO2 cite:rossmeisl-2007-elect. Another paper found 3 eV level changes of the adsorption energy of Fe with coverage cite:pabisiak-2014-fe-fe2o3.
 
 Similarly for perovskite surfaces, coverage plays an important role as well, wich up to 1.5 eV shifts in the adsorption energy cite:montoya-2015-theor.
+* Literature review
+** Researching up major PIs
+*** DONE Download and organize J. K. Nørskov papers
+    CLOSED: [2015-03-11 Wed 13:14]
+*** DONE Download and organize M. Neurock papers
+    CLOSED: [2015-03-11 Wed 13:22]
+*** DONE Download and organize R. B. Getman papers
+    CLOSED: [2015-03-11 Wed 13:34]
+*** DONE Download and organize A. Heyden papers
+    CLOSED: [2015-03-11 Wed 13:42]
+*** DONE Download and organize D. G. Vlachos papers
+    CLOSED: [2015-03-11 Wed 14:05]
+*** TODO Download and organize M. Mavrikakis papers
+*** TODO Download and organize W. F. Schneider papers
+*** TODO Download and organize J. W. Medlin papers
+*** TODO Download and organize C. B. Musgrave papers
+*** TODO Download and organize B. Peters papers
+*** TODO Download and organize A. Asthagiri papers
+*** TODO Download and organize M. J. Janik papers
+*** TODO Download and organize A. A. Peterson papers
+*** TODO Download and organize Feng Jiao papers
+*** TODO Download and organize J. Greeley papers
+*** TODO Download and organize D. S. Sholl papers
+*** TODO Download and organize A. Michaelides papers
+*** TODO Download and organize G. Mpourmpakis papers
+*** TODO Download and organize R. Ramprasad papers
+*** TODO Download and organize Mark Saeys papers
+*** TODO Download and organize Jean-Sabin McEwen papers
+*** TODO Download and organize C. T. Campbell papers
+*** TODO Download and organize K. Reuter papers
+*** TODO Download and organize L. C. Grabow papers
+*** TODO Download and organize M. Scheffler papers
+*** TODO Download and Organize C. Wolverton papers
+*** TODO Download and organize W. A. Goddard papers
