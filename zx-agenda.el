@@ -7,24 +7,13 @@
 			  (concat zx-user-dir "notebook.org")
 			  ))
 
-;; ;; Add active projects to the agenda
-;; (defvar act-proj (list (concat rdir "rutile-OER/rutile-OER.org")
-;; 		       (concat rdir "spinels-dftuv/spinels-dftuv.org")
-;; 		       (concat rdir "nickel-hydroxides/nickel-hydroxides.org")
-;; 		       (concat rdir "DFT+U-V/archive/DFT+U-V-gbrv/DFT+U-V-gbrv.org")
-;; 		       (concat rdir "O2-U/O2-U.org")
-;; 		       (concat rdir "espresso-dos-tests/espresso-dos-tests.org")
-;; 		       (concat rdir "doped-rutiles/doped-rutiles.org")
-;; 		       ))
-
 ;; Add active projects to the agenda
-
-(defvar act-proj (append ; (sa-find-org-file-recursively (concat rdir "spinels-dftuv"))
-			 ; (sa-find-org-file-recursively (concat rdir "nickel-hydroxides"))
-			 (sa-find-org-file-recursively (concat rdir "DFT+U-V-bulk"))
-			 (sa-find-org-file-recursively (concat rdir "NiO-adsorption"))
-			 (sa-find-org-file-recursively (concat rdir "oxide-polymorphs-OER"))
-			 ))
+(defvar act-proj (list (concat rdir "oxide-polymorphs-OER/oxide-polymorphs-OER.org")
+		       (concat rdir "NiO-adsorption/NiO-adsorption.org")
+		       (concat rdir "exxon-surfaces/exxon-surfaces.org")
+		       (concat rdir "oxide-interfaces/oxide-interfaces.org")
+		       (concat rdir "BaTiO3-TiO2-interface/BaTiO3-TiO2-interface.org")
+		       ))
 
 ;; (setq org-agenda-files (list (concat rdir "zhongnax/zhongnax.org")
 ;; 			     (concat rdir "rutile-OER/rutile-OER.org")))

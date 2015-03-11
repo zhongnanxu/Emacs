@@ -14,7 +14,8 @@
 (add-to-list 'load-path user-dir)
 
 ;; (load-file (expand-file-name "jorg-bib.el" jmax-dir))
-(load-file (expand-file-name "jmax.el" starter-kit-dir))
+;; (load-file (expand-file-name "jmax.el" starter-kit-dir))
+(require 'jmax)
 
 ;; These are customizations that we can add to jmax
 (setq reftex-default-bibliography '("~/Dropbox/bibliography/references.bib"))
@@ -53,7 +54,6 @@
 ;; Deactivate pycheck, because I don't need it
 (setq jmax-run-pycheck nil)
 (ad-deactivate 'org-babel-execute:python)
-
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; Automatic Capitalization for references
