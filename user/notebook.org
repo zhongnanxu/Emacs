@@ -3,7 +3,8 @@
 There have not been too many computational studies on this point. One of the few ones I could find was one that studied Fe adsorption on phosphine cite:kulish-2015-adsor, but there aren't that many results and the analysis isn't too strong. I wonder if many computationalists are not as interested in this. I guess supported nanoclusters have been studied in a while. Also the excitement for this single atom catalysis could be dwindling.
 
 ** Thermodynamic models for predicting surface segregation of mixed oxides
-*** TODO Should probably read this article cite:richter-2013-concen-vacan.
+*** DONE Should probably read this article cite:richter-2013-concen-vacan.
+    CLOSED: [2015-03-12 Thu 11:50]
 ** Project with organic perovskites for solar cell applications -- possibly an interface study
 ** Trends in reactivity of other inorganic compounds (nitrides, carbides, phosphides, sulfides)
 
@@ -32,9 +33,14 @@ Similarly for perovskite surfaces, coverage plays an important role as well, wic
     CLOSED: [2015-03-11 Wed 13:42]
 *** DONE Download and organize D. G. Vlachos papers
     CLOSED: [2015-03-11 Wed 14:05]
-*** TODO Download and organize M. Mavrikakis papers
-*** TODO Download and organize W. F. Schneider papers
-*** TODO Download and organize J. W. Medlin papers
+*** DONE Download and organize M. Mavrikakis papers
+    CLOSED: [2015-03-12 Thu 12:44]
+*** DONE Download and organize W. F. Schneider papers
+    CLOSED: [2015-03-12 Thu 13:21]
+*** DONE Download and organize J. W. Medlin papers
+    CLOSED: [2015-03-12 Thu 13:27]
+*** TODO Download and organize K. Reuter papers
+*** TODO Download and organize M. Scheffler papers
 *** TODO Download and organize C. B. Musgrave papers
 *** TODO Download and organize B. Peters papers
 *** TODO Download and organize A. Asthagiri papers
