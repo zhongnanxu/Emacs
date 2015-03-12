@@ -3,7 +3,8 @@
 There have not been too many computational studies on this point. One of the few ones I could find was one that studied Fe adsorption on phosphine cite:kulish-2015-adsor, but there aren't that many results and the analysis isn't too strong. I wonder if many computationalists are not as interested in this. I guess supported nanoclusters have been studied in a while. Also the excitement for this single atom catalysis could be dwindling.
 
 ** Thermodynamic models for predicting surface segregation of mixed oxides
-*** TODO Should probably read this article cite:richter-2013-concen-vacan.
+*** DONE Should probably read this article cite:richter-2013-concen-vacan.
+    CLOSED: [2015-03-11 Wed 14:33]
 ** Project with organic perovskites for solar cell applications -- possibly an interface study
 ** Trends in reactivity of other inorganic compounds (nitrides, carbides, phosphides, sulfides)
 
