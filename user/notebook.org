@@ -22,41 +22,30 @@ However, Rossmeisl has found up to a 1-2 eV effect of coverage on O and OH on bo
 Similarly for perovskite surfaces, coverage plays an important role as well, wich up to 1.5 eV shifts in the adsorption energy cite:montoya-2015-theor.
 * Literature review
 ** Researching up major PIs
-*** DONE Download and organize J. K. Nørskov papers
-    CLOSED: [2015-03-11 Wed 13:14]
-*** DONE Download and organize M. Neurock papers
-    CLOSED: [2015-03-11 Wed 13:22]
-*** DONE Download and organize R. B. Getman papers
-    CLOSED: [2015-03-11 Wed 13:34]
-*** DONE Download and organize A. Heyden papers
-    CLOSED: [2015-03-11 Wed 13:42]
-*** DONE Download and organize D. G. Vlachos papers
-    CLOSED: [2015-03-11 Wed 14:05]
-*** DONE Download and organize M. Mavrikakis papers
-    CLOSED: [2015-03-12 Thu 12:44]
-*** DONE Download and organize W. F. Schneider papers
-    CLOSED: [2015-03-12 Thu 13:21]
-*** DONE Download and organize J. W. Medlin papers
-    CLOSED: [2015-03-12 Thu 13:27]
-*** TODO Download and organize K. Reuter papers
-*** TODO Download and organize M. Scheffler papers
-*** TODO Download and organize C. B. Musgrave papers
-*** TODO Download and organize B. Peters papers
-*** TODO Download and organize A. Asthagiri papers
-*** TODO Download and organize M. J. Janik papers
-*** DONE Download and organize A. A. Peterson papers
-    CLOSED: [2015-03-30 Mon 11:39]
-*** TODO Download and organize Feng Jiao papers
-*** TODO Download and organize J. Greeley papers
+*** Download and organize J. K. Nørskov papers
+*** Download and organize M. Neurock papers
+*** Download and organize R. B. Getman papers
+*** Download and organize A. Heyden papers
+*** Download and organize D. G. Vlachos papers
+*** Download and organize M. Mavrikakis papers
+*** Download and organize W. F. Schneider papers
+*** Download and organize J. W. Medlin papers
+*** Download and organize K. Reuter papers
+*** Download and organize M. Scheffler papers
+*** Download and organize C. B. Musgrave papers
+*** Download and organize B. Peters papers
+*** Download and organize A. Asthagiri papers
+*** Download and organize M. J. Janik papers
+*** Download and organize A. A. Peterson papers
+*** Download and organize Feng Jiao papers
+*** Download and organize J. Greeley papers
 *** TODO Download and organize D. S. Sholl papers
-*** TODO Download and organize A. Michaelides papers
-*** TODO Download and organize G. Mpourmpakis papers
-*** TODO Download and organize R. Ramprasad papers
-*** TODO Download and organize Mark Saeys papers
-*** TODO Download and organize Jean-Sabin McEwen papers
-*** TODO Download and organize C. T. Campbell papers
-*** TODO Download and organize K. Reuter papers
+*** Download and organize A. Michaelides papers
+*** Download and organize G. Mpourmpakis papers
+*** Download and organize R. Ramprasad papers
+*** Download and organize Mark Saeys papers
+*** Download and organize Jean-Sabin McEwen papers
+*** Download and organize C. T. Campbell papers
 *** TODO Download and organize L. C. Grabow papers
-*** TODO Download and organize M. Scheffler papers
 *** TODO Download and Organize C. Wolverton papers
 *** TODO Download and organize W. A. Goddard papers
