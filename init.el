@@ -12,6 +12,9 @@
 (defvar zx-user-dir (expand-file-name "user/" zx-emacs-dir)
   "user directory for personal code")
 
+;; set i(a)spell options on different machines
+(setq ispell-personal-dictionary (concat zx-user-dir ".ispell"))
+
 (add-to-list 'load-path zx-emacs-dir)
 (add-to-list 'load-path zx-user-dir)
 
