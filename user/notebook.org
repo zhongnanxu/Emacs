@@ -20,6 +20,7 @@ From their results of Scheffler cite:reuter-2003-compos-co,reuter-2004-stead-sta
 However, Rossmeisl has found up to a 1-2 eV effect of coverage on O and OH on both RuO2 and IrO2 cite:rossmeisl-2007-elect. Another paper found 3 eV level changes of the adsorption energy of Fe with coverage cite:pabisiak-2014-fe-fe2o3.
 
 Similarly for perovskite surfaces, coverage plays an important role as well, wich up to 1.5 eV shifts in the adsorption energy cite:montoya-2015-theor.
+** Correlations between adsorption on the same system but on geometrically different sites
 * Literature review
 ** Researching up major PIs
 *** Download and organize J. K. Nørskov papers
@@ -50,3 +51,11 @@ Similarly for perovskite surfaces, coverage plays an important role as well, wic
 *** Download and organize C. Wolverton papers
 *** Download and organize W. A. Goddard papers
 *** Download and organize C. G. Van de Walle papers
+* Post PhD Applications
+** TODO Look up 10 chemical engineering programs to apply for within the top 30 schools
+   DEADLINE: <2015-05-08 Fri>
+** TODO Look up 10 post-docs to apply to in both chemical engineering and materials science
+   DEADLINE: <2015-05-08 Fri>
+** TODO Look up 10 west coast industrial companies that would be interested in my work
+   DEADLINE: <2015-05-08 Fri>
+

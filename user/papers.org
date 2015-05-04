@@ -26,8 +26,8 @@
   CLOSED: [2014-10-07 Tue 07:35]
 * DONE Submit abstract to NAM
   CLOSED: [2014-11-05 Wed 14:09] DEADLINE: <2014-11-03 Mon>
-* TODO Write first draft of abstracts of AICHE
-  DEADLINE: <2015-04-17 Fri>
+* DONE Write first draft of abstracts of AICHE
+  CLOSED: [2015-04-28 Tue 09:32] DEADLINE: <2015-04-17 Fri>
 
-* TODO Finish first draft of polymorphs-oer manuscript for John
-  DEADLINE: <2015-04-17 Fri>
+* DONE Finish first draft of polymorphs-oer manuscript for John
+  CLOSED: [2015-04-28 Tue 09:32] DEADLINE: <2015-04-17 Fri>
