@@ -51,11 +51,30 @@ Similarly for perovskite surfaces, coverage plays an important role as well, wic
 *** Download and organize C. Wolverton papers
 *** Download and organize W. A. Goddard papers
 *** Download and organize C. G. Van de Walle papers
+*** TODO Download and organize G. Henkelman papers
+*** TODO Look up NC State, UCSB, and UT Austin Profs
 * Post PhD Applications
-** TODO Look up 10 chemical engineering programs to apply for within the top 30 schools
+** TODO Look up 10 chemical engineering programs to apply for within the top schools
    DEADLINE: <2015-05-08 Fri>
+- Northwestern
+- Upenn
+- NC State
+- UWash
+- UCLA
+- UC Davis
+- U Rochester
+- USC
+- UC Irvine
+- U Virginia
+
 ** TODO Look up 10 post-docs to apply to in both chemical engineering and materials science
    DEADLINE: <2015-05-08 Fri>
+- Wolverton
+- SLAC
+- NC State professors? Look this up more
+- UC Santa Barbara has Anton Van der Ven and Van der Waal
+- Reuter K
+
 ** TODO Look up 10 west coast industrial companies that would be interested in my work
    DEADLINE: <2015-05-08 Fri>
 
