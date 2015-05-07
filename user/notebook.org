@@ -54,10 +54,10 @@ Similarly for perovskite surfaces, coverage plays an important role as well, wic
 *** Download and organize A. Van der Ven papers
 *** Download and organize G. Henkelman papers
 ** Reading up major PIs
-*** TODO Read unread J. K. Nørskov papers
-*** TODO Read unread M. Neurock papers
-*** TODO Read unread R. B. Getman papers
-*** TODO Read unread A. Heyden papers
+*** Read unread J. K. Nørskov papers
+*** Read unread M. Neurock papers
+*** Read unread R. B. Getman papers
+*** Read unread A. Heyden papers
 *** TODO Read unread D. G. Vlachos papers
 *** TODO Read unread M. Mavrikakis papers
 *** TODO Read unread W. F. Schneider papers
