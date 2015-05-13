@@ -57,37 +57,42 @@ cite:guo-2013-effec
 *** Download and organize A. Van der Ven papers
 *** Download and organize G. Henkelman papers
 ** Reading up major PIs
-*** Read unread J. K. Nørskov papers
-*** Read unread M. Neurock papers
-*** Read unread R. B. Getman papers
-*** Read unread A. Heyden papers
-*** TODO Read unread D. G. Vlachos papers
-*** TODO Read unread M. Mavrikakis papers
-*** TODO Read unread W. F. Schneider papers
-*** TODO Read unread J. W. Medlin papers
-*** TODO Read unread K. Reuter papers
-*** TODO Read unread M. Scheffler papers
-*** TODO Read unread C. B. Musgrave papers
-*** TODO Read unread B. Peters papers
-*** TODO Read unread A. Asthagiri papers
-*** TODO Read unread M. J. Janik papers
-*** TODO Read unread A. A. Peterson papers
-*** TODO Read unread Feng Jiao papers
-*** TODO Read unread J. Greeley papers
-*** TODO Read unread D. S. Sholl papers
-*** TODO Read unread A. Michaelides papers
-*** TODO Read unread G. Mpourmpakis papers
-*** TODO Read unread R. Ramprasad papers
-*** TODO Read unread Mark Saeys papers
-*** TODO Read unread Jean-Sabin McEwen papers
-*** TODO Read unread C. T. Campbell papers
-*** TODO Read unread L. C. Grabow papers
-*** TODO Read unread C. Wolverton papers
-*** TODO Read unread W. A. Goddard papers
-*** TODO Read unread C. G. Van de Walle papers
-*** TODO Read unread A. Van der Ven papers
-*** TODO Read unread G. Henkelman papers
-** TODO Review the doped oxides review for possible sample systems that could use some segregation studies
+*** Read unread J. K. Nørskov articles
+*** Read unread M. Neurock articles
+*** Read unread R. B. Getman articles
+*** Read unread A. Heyden articles
+*** Read unread D. G. Vlachos articles
+*** Read unread M. Mavrikakis articles
+*** Read unread W. F. Schneider articles
+*** Read unread J. W. Medlin articles
+*** Read unread K. Reuter articles
+*** Read unread M. Scheffler articles
+*** Read unread C. B. Musgrave articles
+*** DONE Read unread B. Peters articles
+    CLOSED: [2015-05-13 Wed 10:45]
+*** Read unread A. Asthagiri articles
+*** DONE Read unread M. J. Janik articles
+    CLOSED: [2015-05-13 Wed 13:09]
+*** Read unread A. A. Peterson articles
+*** Read unread Feng Jiao articles
+*** Read unread J. Greeley articles
+*** TODO Read unread D. S. Sholl articles
+*** Read unread A. Michaelides articles
+*** TODO Read unread G. Mpourmpakis articles
+*** TODO Read unread R. Ramprasad articles
+*** TODO Read unread Mark Saeys articles
+*** Read unread Jean-Sabin McEwen articles
+*** TODO Read unread C. T. Campbell articles
+*** TODO Read unread L. C. Grabow articles
+*** TODO Read unread C. Wolverton articles
+*** TODO Read unread W. A. Goddard articles
+*** Read unread C. G. Van de Walle articles
+*** TODO Read unread A. Van der Ven articles
+*** TODO Read unread G. Henkelman articles
+** TODO Read doped oxides review for possible sample systems that could use some segregation studies
+** TODO Read Reuter review on Monte-Carlo Simulations
+** TODO Read Janik paper of using Reaxff to simulate Pd oxidation
+** TODO Read Michalsky paper in Advanced Materials on oxides for fuel production
 * Post PhD Applications
 ** DONE Look up 10 chemical engineering programs to apply for within the top schools
    CLOSED: [2015-05-06 Wed 08:42] DEADLINE: <2015-05-08 Fri>
@@ -113,5 +118,5 @@ cite:guo-2013-effec
 - MIT - Kulik
 
 ** TODO Look up 5-10 west coast industrial companies that would be interested in my work
-   DEADLINE: <2015-05-08 Fri>
+   DEADLINE: <2015-05-15 Fri>
 
