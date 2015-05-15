@@ -76,7 +76,7 @@ cite:guo-2013-effec
 *** Read unread A. A. Peterson articles
 *** Read unread Feng Jiao articles
 *** Read unread J. Greeley articles
-*** TODO Read unread D. S. Sholl articles
+*** Read unread D. S. Sholl articles
 *** Read unread A. Michaelides articles
 *** TODO Read unread G. Mpourmpakis articles
 *** TODO Read unread R. Ramprasad articles
