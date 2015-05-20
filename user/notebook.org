@@ -82,15 +82,15 @@ cite:guo-2013-effec
 *** Read unread R. Ramprasad articles
 *** Read unread Mark Saeys articles
 *** Read unread Jean-Sabin McEwen articles
-*** TODO Read unread C. T. Campbell articles
-*** TODO Read unread L. C. Grabow articles
+*** Read unread C. T. Campbell articles
+*** Read unread L. C. Grabow articles
 *** TODO Read unread C. Wolverton articles
 *** TODO Read unread W. A. Goddard articles
 *** Read unread C. G. Van de Walle articles
 *** TODO Read unread A. Van der Ven articles
 *** TODO Read unread G. Henkelman articles
 ** TODO Read doped oxides review for possible sample systems that could use some segregation studies
-** TODO Read Reuter review on Monte-Carlo Simulations
+** Read Reuter review on Monte-Carlo Simulations
 ** TODO Read Janik paper of using Reaxff to simulate Pd oxidation
 ** TODO Read Michalsky paper in Advanced Materials on oxides for fuel production
 ** TODO Look through literature for oxide surface segregation studies
@@ -101,7 +101,6 @@ cite:guo-2013-effec
 - Northwestern
 - UI-Urbana
 - Upenn
-- NC State
 - UWash
 - UCLA
 - UC Davis
@@ -115,12 +114,39 @@ cite:guo-2013-effec
 - Northwestern - Wolverton
 - SLAC
 - UCSB - Anton van der Ven
-- Caltech - Axel van der Walle
-- Technical University of Munich - Karsten Reuter
-- MIT - Kulik
+- UT Austin - Henkelman
 
 ** TODO Look up 5-10 west coast industrial companies that would be interested in my work
    DEADLINE: <2015-05-15 Fri>
+
+** Faculty applications
+*** Northwestern
+
+http://www.mccormick.northwestern.edu/chemical-biological/careers.html
+
+*** UI-Urbana
+
+https://chbe.illinois.edu/about-us/faculty-and-staff-positions-available
+
+*** UW
+
+http://ap.washington.edu/ahr/academic-jobs/
+
+*** Upenn
+
+https://pa443.peopleadmin.com/applicants/jsp/shared/frameset/Frameset.jsp?time=1432156758316
+
+*** UCLA
+
+http://www.chemeng.ucla.edu/about/job-opportunities
+
+*** UC Davis
+
+https://recruit.ucdavis.edu/apply#engineering
+
+*** USC
+
+http://chems.usc.edu/about/job-openings/
 
 
 * Industrial Career Seminar notes
