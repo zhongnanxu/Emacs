@@ -20,43 +20,103 @@ From their results of Scheffler cite:reuter-2003-compos-co,reuter-2004-stead-sta
 However, Rossmeisl has found up to a 1-2 eV effect of coverage on O and OH on both RuO2 and IrO2 cite:rossmeisl-2007-elect. Another paper found 3 eV level changes of the adsorption energy of Fe with coverage cite:pabisiak-2014-fe-fe2o3.
 
 Similarly for perovskite surfaces, coverage plays an important role as well, wich up to 1.5 eV shifts in the adsorption energy cite:montoya-2015-theor.
+** Correlations between adsorption on the same system but on geometrically different sites
+** Understanding adsorption on mixed oxides through counting their correlations
+cite:guo-2013-effec
+
 * Literature review
 ** Researching up major PIs
-*** DONE Download and organize J. K. Nørskov papers
-    CLOSED: [2015-03-11 Wed 13:14]
-*** DONE Download and organize M. Neurock papers
-    CLOSED: [2015-03-11 Wed 13:22]
-*** DONE Download and organize R. B. Getman papers
-    CLOSED: [2015-03-11 Wed 13:34]
-*** DONE Download and organize A. Heyden papers
-    CLOSED: [2015-03-11 Wed 13:42]
-*** DONE Download and organize D. G. Vlachos papers
-    CLOSED: [2015-03-11 Wed 14:05]
-*** DONE Download and organize M. Mavrikakis papers
-    CLOSED: [2015-03-12 Thu 12:44]
-*** DONE Download and organize W. F. Schneider papers
-    CLOSED: [2015-03-12 Thu 13:21]
-*** DONE Download and organize J. W. Medlin papers
-    CLOSED: [2015-03-12 Thu 13:27]
-*** TODO Download and organize K. Reuter papers
-*** TODO Download and organize M. Scheffler papers
-*** TODO Download and organize C. B. Musgrave papers
-*** TODO Download and organize B. Peters papers
-*** TODO Download and organize A. Asthagiri papers
-*** TODO Download and organize M. J. Janik papers
-*** DONE Download and organize A. A. Peterson papers
-    CLOSED: [2015-03-30 Mon 11:39]
-*** TODO Download and organize Feng Jiao papers
-*** TODO Download and organize J. Greeley papers
-*** TODO Download and organize D. S. Sholl papers
-*** TODO Download and organize A. Michaelides papers
-*** TODO Download and organize G. Mpourmpakis papers
-*** TODO Download and organize R. Ramprasad papers
-*** TODO Download and organize Mark Saeys papers
-*** TODO Download and organize Jean-Sabin McEwen papers
-*** TODO Download and organize C. T. Campbell papers
-*** TODO Download and organize K. Reuter papers
-*** TODO Download and organize L. C. Grabow papers
-*** TODO Download and organize M. Scheffler papers
-*** TODO Download and Organize C. Wolverton papers
-*** TODO Download and organize W. A. Goddard papers
+*** Download and organize J. K. Nørskov papers
+*** Download and organize M. Neurock papers
+*** Download and organize R. B. Getman papers
+*** Download and organize A. Heyden papers
+*** Download and organize D. G. Vlachos papers
+*** Download and organize M. Mavrikakis papers
+*** Download and organize W. F. Schneider papers
+*** Download and organize J. W. Medlin papers
+*** Download and organize K. Reuter papers
+*** Download and organize M. Scheffler papers
+*** Download and organize C. B. Musgrave papers
+*** Download and organize B. Peters papers
+*** Download and organize A. Asthagiri papers
+*** Download and organize M. J. Janik papers
+*** Download and organize A. A. Peterson papers
+*** Download and organize Feng Jiao papers
+*** Download and organize J. Greeley papers
+*** Download and organize D. S. Sholl papers
+*** Download and organize A. Michaelides papers
+*** Download and organize G. Mpourmpakis papers
+*** Download and organize R. Ramprasad papers
+*** Download and organize Mark Saeys papers
+*** Download and organize Jean-Sabin McEwen papers
+*** Download and organize C. T. Campbell papers
+*** Download and organize L. C. Grabow papers
+*** Download and organize C. Wolverton papers
+*** Download and organize W. A. Goddard papers
+*** Download and organize C. G. Van de Walle papers
+*** Download and organize A. Van der Ven papers
+*** Download and organize G. Henkelman papers
+** Reading up major PIs
+*** Read unread J. K. Nørskov articles
+*** Read unread M. Neurock articles
+*** Read unread R. B. Getman articles
+*** Read unread A. Heyden articles
+*** Read unread D. G. Vlachos articles
+*** Read unread M. Mavrikakis articles
+*** Read unread W. F. Schneider articles
+*** Read unread J. W. Medlin articles
+*** Read unread K. Reuter articles
+*** Read unread M. Scheffler articles
+*** Read unread C. B. Musgrave articles
+*** DONE Read unread B. Peters articles
+    CLOSED: [2015-05-13 Wed 10:45]
+*** Read unread A. Asthagiri articles
+*** DONE Read unread M. J. Janik articles
+    CLOSED: [2015-05-13 Wed 13:09]
+*** Read unread A. A. Peterson articles
+*** Read unread Feng Jiao articles
+*** Read unread J. Greeley articles
+*** Read unread D. S. Sholl articles
+*** Read unread A. Michaelides articles
+*** TODO Read unread G. Mpourmpakis articles
+*** TODO Read unread R. Ramprasad articles
+*** TODO Read unread Mark Saeys articles
+*** Read unread Jean-Sabin McEwen articles
+*** TODO Read unread C. T. Campbell articles
+*** TODO Read unread L. C. Grabow articles
+*** TODO Read unread C. Wolverton articles
+*** TODO Read unread W. A. Goddard articles
+*** Read unread C. G. Van de Walle articles
+*** TODO Read unread A. Van der Ven articles
+*** TODO Read unread G. Henkelman articles
+** TODO Read doped oxides review for possible sample systems that could use some segregation studies
+** TODO Read Reuter review on Monte-Carlo Simulations
+** TODO Read Janik paper of using Reaxff to simulate Pd oxidation
+** TODO Read Michalsky paper in Advanced Materials on oxides for fuel production
+* Post PhD Applications
+** DONE Look up 10 chemical engineering programs to apply for within the top schools
+   CLOSED: [2015-05-06 Wed 08:42] DEADLINE: <2015-05-08 Fri>
+- Northwestern
+- UI-Urbana
+- Upenn
+- NC State
+- UWash
+- UCLA
+- UC Davis
+- U Rochester
+- USC
+- UC Irvine
+- U Virginia
+
+** DONE Look up 5-10 post-docs to apply to in both chemical engineering and materials science
+   CLOSED: [2015-05-06 Wed 10:05] DEADLINE: <2015-05-08 Fri>
+- Northwestern - Wolverton
+- SLAC
+- UCSB - Anton van der Ven
+- Caltech - Axel van der Walle
+- Technical University of Munich - Karsten Reuter
+- MIT - Kulik
+
+** TODO Look up 5-10 west coast industrial companies that would be interested in my work
+   DEADLINE: <2015-05-15 Fri>
+

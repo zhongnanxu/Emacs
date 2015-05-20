@@ -32,3 +32,7 @@
   CLOSED: [2014-10-07 Tue 07:35] DEADLINE: <2014-10-03 Fri>
 * DONE Check get_fermi_level error
   CLOSED: [2014-09-29 Mon 10:13] SCHEDULED: <2014-09-29 Mon>
+* DONE Write/submit poster title/abstract to AICHE
+  CLOSED: [2015-05-11 Mon 16:38] SCHEDULED: <2015-05-11 Mon>
+* DONE Prepare comparison between nucleation studies and continuum model
+  CLOSED: [2015-05-15 Fri 07:41] SCHEDULED: <2015-05-11 Mon>
