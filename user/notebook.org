@@ -78,9 +78,9 @@ cite:guo-2013-effec
 *** Read unread J. Greeley articles
 *** Read unread D. S. Sholl articles
 *** Read unread A. Michaelides articles
-*** TODO Read unread G. Mpourmpakis articles
-*** TODO Read unread R. Ramprasad articles
-*** TODO Read unread Mark Saeys articles
+*** Read unread G. Mpourmpakis articles
+*** Read unread R. Ramprasad articles
+*** Read unread Mark Saeys articles
 *** Read unread Jean-Sabin McEwen articles
 *** TODO Read unread C. T. Campbell articles
 *** TODO Read unread L. C. Grabow articles
@@ -93,6 +93,8 @@ cite:guo-2013-effec
 ** TODO Read Reuter review on Monte-Carlo Simulations
 ** TODO Read Janik paper of using Reaxff to simulate Pd oxidation
 ** TODO Read Michalsky paper in Advanced Materials on oxides for fuel production
+** TODO Look through literature for oxide surface segregation studies
+** TODO Read Ramprasad machine learning thesis
 * Post PhD Applications
 ** DONE Look up 10 chemical engineering programs to apply for within the top schools
    CLOSED: [2015-05-06 Wed 08:42] DEADLINE: <2015-05-08 Fri>
@@ -119,4 +121,53 @@ cite:guo-2013-effec
 
 ** TODO Look up 5-10 west coast industrial companies that would be interested in my work
    DEADLINE: <2015-05-15 Fri>
+
+
+* Industrial Career Seminar notes
+** Dr. Suzie Laurich- McIntyre talk
+- Make sure to go to conferences (1st point)
+- Get connected with the CMU alumni network
+- Large emphasis on networking with EVERYBODY
+- Getting involved in local/national professional organization
+- Ask John for more professional responsibilities
+- Have at least 5 different elevator talks
+  - Will depend on the sort of company you want to work for
+  - From least dumb-down to most technical
+  - Make sure you know the "why" of you're studying
+- Career and development center to find out where students have gone
+- Check old career fair conferences for people hiring 
+- Think about ways to build my CV
+- Have a unique CV for each company
+- Cover letter notes
+  - Who you've worked with
+  - What your goals are
+  - Leadership
+  - More specifics on what research you've done and how it relates to their company
+  - Cover letter should convince you are a good fit for a certain company
+- Develop a website
+- Make sure linkedin/facebook page is updated
+** Applications and interviews: Discussion with recent graduates
+- How did you prepare for your interview process?
+  - Know a bit about the general information company
+  - Know about recent news
+  - Always have questions
+  - Prepare for behavior interview questions
+- How much advice did you seek out receive from your advisor?
+  - Get advice on your interview talk
+- It seems like it'll be difficult connecting my work to what industry values
+- It will take about a month to hear back on interviews
+- Make sure they think you are fully committed to their company
+- Leadership skills are important it seems. How does a PhD help with that?
+- Seems like the hiring process is year long
+** Perspectives of PhD Industrial Career path: Q&A panel
+- Your position will most likely be similar to that of assistant professor, where you manage people doing the technical work but you need to organize the information for the higher ups
+- Don't expect to go faster if you are not pushing for your own require
+- Setting goals with your manager makes it happen all the more
+- Expertise is far more shared in industry
+- Soft skills are very important
+- Parting words
+  - Leverage your strengths
+  - Identify other people's strengths
+  - Keep learning
+  - Your success is your own responsibility
 
