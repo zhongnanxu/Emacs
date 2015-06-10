@@ -92,9 +92,10 @@ cite:guo-2013-effec
 ** TODO Read doped oxides review for possible sample systems that could use some segregation studies
 ** Read Reuter review on Monte-Carlo Simulations
 ** TODO Read Janik paper of using Reaxff to simulate Pd oxidation
-** TODO Read Michalsky paper in Advanced Materials on oxides for fuel production
+** DONE Read Michalsky paper in Advanced Materials on oxides for fuel production
+   CLOSED: [2015-06-10 Wed 15:14]
 ** TODO Look through literature for oxide surface segregation studies
-** TODO Read Ramprasad machine learning thesis
+** Read Ramprasad machine learning thesis
 * Post PhD Applications
 ** DONE Look up 10 chemical engineering programs to apply for within the top schools
    CLOSED: [2015-05-06 Wed 08:42] DEADLINE: <2015-05-08 Fri>
