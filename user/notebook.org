@@ -25,6 +25,8 @@ Similarly for perovskite surfaces, coverage plays an important role as well, wic
 cite:guo-2013-effec
 
 * Literature review
+** DONE Read/understand 8 unread papers
+   CLOSED: [2015-05-19 Tue 21:56] SCHEDULED: <2015-05-19 Tue + 1d>
 ** Researching up major PIs
 *** Download and organize J. K. Nørskov papers
 *** Download and organize M. Neurock papers
