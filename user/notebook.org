@@ -25,6 +25,8 @@ Similarly for perovskite surfaces, coverage plays an important role as well, wic
 cite:guo-2013-effec
 
 * Literature review
+** DONE Read/understand 8 unread papers
+   CLOSED: [2015-05-19 Tue 21:56] SCHEDULED: <2015-05-19 Tue + 1d>
 ** Researching up major PIs
 *** Download and organize J. K. Nørskov papers
 *** Download and organize M. Neurock papers
@@ -92,9 +94,10 @@ cite:guo-2013-effec
 ** TODO Read doped oxides review for possible sample systems that could use some segregation studies
 ** Read Reuter review on Monte-Carlo Simulations
 ** TODO Read Janik paper of using Reaxff to simulate Pd oxidation
-** TODO Read Michalsky paper in Advanced Materials on oxides for fuel production
+** DONE Read Michalsky paper in Advanced Materials on oxides for fuel production
+   CLOSED: [2015-06-10 Wed 15:14]
 ** TODO Look through literature for oxide surface segregation studies
-** TODO Read Ramprasad machine learning thesis
+** Read Ramprasad machine learning thesis
 * Post PhD Applications
 ** DONE Look up 10 chemical engineering programs to apply for within the top schools
    CLOSED: [2015-05-06 Wed 08:42] DEADLINE: <2015-05-08 Fri>
