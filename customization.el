@@ -118,6 +118,8 @@ entries in articles."
 
 (global-set-key [f9] (lambda () (interactive) (save-buffer) (load-file (concat zx-emacs-dir "/init.el"))))
 
+(setq org-image-actual-width '(600))
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; Org-mode preferences
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
