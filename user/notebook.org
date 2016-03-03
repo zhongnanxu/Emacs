@@ -86,17 +86,17 @@ cite:guo-2013-effec
 *** Read unread Jean-Sabin McEwen articles
 *** Read unread C. T. Campbell articles
 *** Read unread L. C. Grabow articles
-*** TODO Read unread C. Wolverton articles
-*** TODO Read unread W. A. Goddard articles
+*** Read unread C. Wolverton articles
+*** Read unread W. A. Goddard articles
 *** Read unread C. G. Van de Walle articles
-*** TODO Read unread A. Van der Ven articles
-*** TODO Read unread G. Henkelman articles
-** TODO Read doped oxides review for possible sample systems that could use some segregation studies
+*** Read unread A. Van der Ven articles
+*** Read unread G. Henkelman articles
+** Read doped oxides review for possible sample systems that could use some segregation studies
 ** Read Reuter review on Monte-Carlo Simulations
-** TODO Read Janik paper of using Reaxff to simulate Pd oxidation
+** Read Janik paper of using Reaxff to simulate Pd oxidation
 ** DONE Read Michalsky paper in Advanced Materials on oxides for fuel production
    CLOSED: [2015-06-10 Wed 15:14]
-** TODO Look through literature for oxide surface segregation studies
+** Look through literature for oxide surface segregation studies
 ** Read Ramprasad machine learning thesis
 * Post PhD Applications
 ** DONE Look up 10 chemical engineering programs to apply for within the top schools
@@ -119,8 +119,8 @@ cite:guo-2013-effec
 - UCSB - Anton van der Ven
 - UT Austin - Henkelman
 
-** TODO Look up 5-10 west coast industrial companies that would be interested in my work
-   DEADLINE: <2015-05-15 Fri>
+** DONE Look up 5-10 west coast industrial companies that would be interested in my work
+   CLOSED: [2016-03-03 Thu 15:10] DEADLINE: <2015-05-15 Fri>
 
 ** Faculty applications
 *** Northwestern
