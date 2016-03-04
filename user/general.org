@@ -36,3 +36,6 @@
   CLOSED: [2015-05-11 Mon 16:38] SCHEDULED: <2015-05-11 Mon>
 * DONE Prepare comparison between nucleation studies and continuum model
   CLOSED: [2015-05-15 Fri 07:41] SCHEDULED: <2015-05-11 Mon>
+* RUNNING Meet with George Huber's student on AuMo nanoparticles
+* RUNNING Get info on available software on bardeen and turnbull clusters
+* TODO Test structopt website and give feedback

@@ -1,0 +1,93 @@
+* Regular literature review practices
+** TODO Read/understand/sort 10 Unread Papers
+   SCHEDULED: <2016-03-07 Mon +1w>
+   - State "DONE"       from "RUNNING"    [2016-03-04 Fri 10:53]
+   :PROPERTIES:
+   :LAST_REPEAT: [2016-03-04 Fri 10:53]
+   :END:
+** TODO Review work done in CMG
+   SCHEDULED: <2016-03-08 Tue +1w>
+** TODO Read/understand/sort 10 Unread Papers
+   SCHEDULED: <2016-03-09 Wed +1w>
+   - State "DONE"       from "RUNNING"    [2016-03-04 Fri 10:53]
+   :PROPERTIES:
+   :LAST_REPEAT: [2016-03-04 Fri 10:53]
+   :END:
+** TODO Review work done in Paul Voyles Group
+   SCHEDULED: <2016-03-10 Thu +1w>
+** TODO Read a chapter of How to Solve It
+   SCHEDULED: <2016-03-11 Fri +1w>
+* Researching up major PIs
+** Download and organize J. K. Nørskov papers
+** Download and organize M. Neurock papers
+** Download and organize R. B. Getman papers
+** Download and organize A. Heyden papers
+** Download and organize D. G. Vlachos papers
+** Download and organize M. Mavrikakis papers
+** Download and organize W. F. Schneider papers
+** Download and organize J. W. Medlin papers
+** Download and organize K. Reuter papers
+** Download and organize M. Scheffler papers
+** Download and organize C. B. Musgrave papers
+** Download and organize B. Peters papers
+** Download and organize A. Asthagiri papers
+** Download and organize M. J. Janik papers
+** Download and organize A. A. Peterson papers
+** Download and organize Feng Jiao papers
+** Download and organize J. Greeley papers
+** Download and organize D. S. Sholl papers
+** Download and organize A. Michaelides papers
+** Download and organize G. Mpourmpakis papers
+** Download and organize R. Ramprasad papers
+** Download and organize Mark Saeys papers
+** Download and organize Jean-Sabin McEwen papers
+** Download and organize C. T. Campbell papers
+** Download and organize L. C. Grabow papers
+** Download and organize C. Wolverton papers
+** Download and organize W. A. Goddard papers
+** Download and organize C. G. Van de Walle papers
+** Download and organize A. Van der Ven papers
+** Download and organize G. Henkelman papers
+* Reading up major PIs
+** Read unread J. K. Nørskov articles
+** Read unread M. Neurock articles
+** Read unread R. B. Getman articles
+** Read unread A. Heyden articles
+** Read unread D. G. Vlachos articles
+** Read unread M. Mavrikakis articles
+** Read unread W. F. Schneider articles
+** Read unread J. W. Medlin articles
+** Read unread K. Reuter articles
+** Read unread M. Scheffler articles
+** Read unread C. B. Musgrave articles
+** DONE Read unread B. Peters articles
+   CLOSED: [2015-05-13 Wed 10:45]
+** Read unread A. Asthagiri articles
+** DONE Read unread M. J. Janik articles
+   CLOSED: [2015-05-13 Wed 13:09]
+** Read unread A. A. Peterson articles
+** Read unread Feng Jiao articles
+** Read unread J. Greeley articles
+** Read unread D. S. Sholl articles
+** Read unread A. Michaelides articles
+** Read unread G. Mpourmpakis articles
+** Read unread R. Ramprasad articles
+** Read unread Mark Saeys articles
+** Read unread Jean-Sabin McEwen articles
+** Read unread C. T. Campbell articles
+** Read unread L. C. Grabow articles
+** Read unread C. Wolverton articles
+** Read unread W. A. Goddard articles
+** Read unread C. G. Van de Walle articles
+** Read unread A. Van der Ven articles
+** Read unread G. Henkelman articles
+* Read doped oxides review for possible sample systems that could use some segregation studies
+* Read Reuter review on Monte-Carlo Simulations
+* Read Janik paper of using Reaxff to simulate Pd oxidation
+* Read Michalsky paper in Advanced Materials on oxides for fuel production
+* Look through literature for oxide surface segregation studies
+* Read Ramprasad machine learning thesis
+* TODO Review Simon Billinge work
+* TODO Review AuMo and PtMo nanoparticle work
+* TODO Review empirical potential built from Mike Basque (sic)
+
