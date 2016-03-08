@@ -1,13 +1,15 @@
 * Regular literature review practices
-** TODO Read/understand/sort 10 Unread Papers
-   SCHEDULED: <2016-03-07 Mon +1w>
+** TODO Review structure optimization techniques
+   SCHEDULED: <2016-03-21 Mon +1w>
+   - State "DONE"       from "RUNNING"    [2016-03-08 Tue 08:55]
+   - State "DONE"       from "RUNNING"    [2016-03-08 Tue 08:55]
    - State "DONE"       from "RUNNING"    [2016-03-04 Fri 10:53]
    :PROPERTIES:
-   :LAST_REPEAT: [2016-03-04 Fri 10:53]
+   :LAST_REPEAT: [2016-03-08 Tue 08:55]
    :END:
 ** TODO Review work done in CMG
    SCHEDULED: <2016-03-08 Tue +1w>
-** TODO Read/understand/sort 10 Unread Papers
+** TODO Read "Molecular Modelling" 
    SCHEDULED: <2016-03-09 Wed +1w>
    - State "DONE"       from "RUNNING"    [2016-03-04 Fri 10:53]
    :PROPERTIES:
@@ -15,7 +17,7 @@
    :END:
 ** TODO Review work done in Paul Voyles Group
    SCHEDULED: <2016-03-10 Thu +1w>
-** TODO Read a chapter of How to Solve It
+** TODO Read "How to Solve It"
    SCHEDULED: <2016-03-11 Fri +1w>
 * Researching up major PIs
 ** Download and organize J. K. Nørskov papers

@@ -24,135 +24,10 @@ Similarly for perovskite surfaces, coverage plays an important role as well, wic
 ** Understanding adsorption on mixed oxides through counting their correlations
 cite:guo-2013-effec
 
-* Literature review
-** DONE Read/understand 8 unread papers
-   CLOSED: [2015-05-19 Tue 21:56] SCHEDULED: <2015-05-19 Tue + 1d>
-** Researching up major PIs
-*** Download and organize J. K. Nørskov papers
-*** Download and organize M. Neurock papers
-*** Download and organize R. B. Getman papers
-*** Download and organize A. Heyden papers
-*** Download and organize D. G. Vlachos papers
-*** Download and organize M. Mavrikakis papers
-*** Download and organize W. F. Schneider papers
-*** Download and organize J. W. Medlin papers
-*** Download and organize K. Reuter papers
-*** Download and organize M. Scheffler papers
-*** Download and organize C. B. Musgrave papers
-*** Download and organize B. Peters papers
-*** Download and organize A. Asthagiri papers
-*** Download and organize M. J. Janik papers
-*** Download and organize A. A. Peterson papers
-*** Download and organize Feng Jiao papers
-*** Download and organize J. Greeley papers
-*** Download and organize D. S. Sholl papers
-*** Download and organize A. Michaelides papers
-*** Download and organize G. Mpourmpakis papers
-*** Download and organize R. Ramprasad papers
-*** Download and organize Mark Saeys papers
-*** Download and organize Jean-Sabin McEwen papers
-*** Download and organize C. T. Campbell papers
-*** Download and organize L. C. Grabow papers
-*** Download and organize C. Wolverton papers
-*** Download and organize W. A. Goddard papers
-*** Download and organize C. G. Van de Walle papers
-*** Download and organize A. Van der Ven papers
-*** Download and organize G. Henkelman papers
-** Reading up major PIs
-*** Read unread J. K. Nørskov articles
-*** Read unread M. Neurock articles
-*** Read unread R. B. Getman articles
-*** Read unread A. Heyden articles
-*** Read unread D. G. Vlachos articles
-*** Read unread M. Mavrikakis articles
-*** Read unread W. F. Schneider articles
-*** Read unread J. W. Medlin articles
-*** Read unread K. Reuter articles
-*** Read unread M. Scheffler articles
-*** Read unread C. B. Musgrave articles
-*** DONE Read unread B. Peters articles
-    CLOSED: [2015-05-13 Wed 10:45]
-*** Read unread A. Asthagiri articles
-*** DONE Read unread M. J. Janik articles
-    CLOSED: [2015-05-13 Wed 13:09]
-*** Read unread A. A. Peterson articles
-*** Read unread Feng Jiao articles
-*** Read unread J. Greeley articles
-*** Read unread D. S. Sholl articles
-*** Read unread A. Michaelides articles
-*** Read unread G. Mpourmpakis articles
-*** Read unread R. Ramprasad articles
-*** Read unread Mark Saeys articles
-*** Read unread Jean-Sabin McEwen articles
-*** Read unread C. T. Campbell articles
-*** Read unread L. C. Grabow articles
-*** Read unread C. Wolverton articles
-*** Read unread W. A. Goddard articles
-*** Read unread C. G. Van de Walle articles
-*** Read unread A. Van der Ven articles
-*** Read unread G. Henkelman articles
-** Read doped oxides review for possible sample systems that could use some segregation studies
-** Read Reuter review on Monte-Carlo Simulations
-** Read Janik paper of using Reaxff to simulate Pd oxidation
-** DONE Read Michalsky paper in Advanced Materials on oxides for fuel production
-   CLOSED: [2015-06-10 Wed 15:14]
-** Look through literature for oxide surface segregation studies
-** Read Ramprasad machine learning thesis
-* Post PhD Applications
-** DONE Look up 10 chemical engineering programs to apply for within the top schools
-   CLOSED: [2015-05-06 Wed 08:42] DEADLINE: <2015-05-08 Fri>
-- Northwestern
-- UI-Urbana
-- Upenn
-- UWash
-- UCLA
-- UC Davis
-- U Rochester
-- USC
-- UC Irvine
-- U Virginia
-
-** DONE Look up 5-10 post-docs to apply to in both chemical engineering and materials science
-   CLOSED: [2015-05-06 Wed 10:05] DEADLINE: <2015-05-08 Fri>
-- Northwestern - Wolverton
-- SLAC
-- UCSB - Anton van der Ven
-- UT Austin - Henkelman
-
-** DONE Look up 5-10 west coast industrial companies that would be interested in my work
-   CLOSED: [2016-03-03 Thu 15:10] DEADLINE: <2015-05-15 Fri>
-
-** Faculty applications
-*** Northwestern
-
-http://www.mccormick.northwestern.edu/chemical-biological/careers.html
-
-*** UI-Urbana
-
-https://chbe.illinois.edu/about-us/faculty-and-staff-positions-available
-
-*** UW
-
-http://ap.washington.edu/ahr/academic-jobs/
-
-*** Upenn
-
-https://pa443.peopleadmin.com/applicants/jsp/shared/frameset/Frameset.jsp?time=1432156758316
-
-*** UCLA
-
-http://www.chemeng.ucla.edu/about/job-opportunities
-
-*** UC Davis
-
-https://recruit.ucdavis.edu/apply#engineering
-
-*** USC
-
-http://chems.usc.edu/about/job-openings/
-
-* Industrial Career Seminar notes
-** Dr. Suzie Laurich- McIntyre talk
+* CMU
+** <2015-05-15 Fri>
+*** Industrial Career Seminar notes
+**** Dr. Suzie Laurich- McIntyre talk
 - Make sure to go to conferences (1st point)
 - Get connected with the CMU alumni network
 - Large emphasis on networking with EVERYBODY
@@ -174,7 +49,7 @@ http://chems.usc.edu/about/job-openings/
   - Cover letter should convince you are a good fit for a certain company
 - Develop a website
 - Make sure linkedin/facebook page is updated
-** Applications and interviews: Discussion with recent graduates
+**** Applications and interviews: Discussion with recent graduates
 - How did you prepare for your interview process?
   - Know a bit about the general information company
   - Know about recent news
@@ -187,7 +62,7 @@ http://chems.usc.edu/about/job-openings/
 - Make sure they think you are fully committed to their company
 - Leadership skills are important it seems. How does a PhD help with that?
 - Seems like the hiring process is year long
-** Perspectives of PhD Industrial Career path: Q&A panel
+**** Perspectives of PhD Industrial Career path: Q&A panel
 - Your position will most likely be similar to that of assistant professor, where you manage people doing the technical work but you need to organize the information for the higher ups
 - Don't expect to go faster if you are not pushing for your own require
 - Setting goals with your manager makes it happen all the more
@@ -199,3 +74,10 @@ http://chems.usc.edu/about/job-openings/
   - Keep learning
   - Your success is your own responsibility
 
+
+* <2016-03-07 Mon> Initial meeting with Insoo
+  - No connection between presence of Au metallic and cationic Au and presence of defect sites
+  - In contrast to Au, some MoO_{x} ended up on the SiO_{x} support
+  - Though preparation is done at an inert atmosphere, all STEM characterization is done in the presence of oxygen
+  - It is likely that MoO_{x} clusters could form at the surface
+  - Their main hypothesis is that Mo populates the defect sites of Au/Pt
