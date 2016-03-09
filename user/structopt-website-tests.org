@@ -1,0 +1,17 @@
+Issues as I go through the manual and follow directions
+
+- It seems the user manual is taking the user through an example. Specify what this example is in the beginning of the section.
+
+- 1.1.1.(c). Under atoms list, what does the chemical potential reference to?
+
+- After steps in section 1.1.10 (selection parameters), I didn't see any inputs on the website for "Crystal specific parameters" or "Defect specific parameters". I'm guessing this has to do my selection of parameters in the previous section or something.
+
+- Upon trying to run the example calculation, it says my "Size of large box" is too large (greater than 20), even though the guide has me entering 500. I changed it to 20 and submitted the job
+
+General thoughts
+
+- This guide could use some links to explanations of the parameters. Its probably better to link the information rather than write it all in here, since there's a lot! 
+
+- Is there anyway to preview all of your input before you run the job besides clicking through the sections?
+
+- It seems that the website saves your inputs as you go from page to page. There should be a button to save your inputs to some txt file when you're done entering in the inputs. This is especially pertinent considering once you exit the StructOpt page your inputs are gone!
