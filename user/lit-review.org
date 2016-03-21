@@ -8,17 +8,34 @@
    :LAST_REPEAT: [2016-03-08 Tue 08:55]
    :END:
 ** TODO Review work done in CMG
-   SCHEDULED: <2016-03-08 Tue +1w>
+   SCHEDULED: <2016-03-22 Tue +1w>
+   - State "DONE"       from "RUNNING"    [2016-03-21 Mon 13:04]
+   - State "DONE"       from "RUNNING"    [2016-03-21 Mon 13:04]
+   :PROPERTIES:
+   :LAST_REPEAT: [2016-03-21 Mon 13:04]
+   :END:
 ** TODO Read "Molecular Modelling" 
-   SCHEDULED: <2016-03-09 Wed +1w>
+   SCHEDULED: <2016-03-23 Wed +1w>
+   - State "DONE"       from "RUNNING"    [2016-03-21 Mon 13:04]
+   - State "DONE"       from "RUNNING"    [2016-03-21 Mon 13:04]
    - State "DONE"       from "RUNNING"    [2016-03-04 Fri 10:53]
    :PROPERTIES:
-   :LAST_REPEAT: [2016-03-04 Fri 10:53]
+   :LAST_REPEAT: [2016-03-21 Mon 13:04]
    :END:
 ** TODO Review work done in Paul Voyles Group
-   SCHEDULED: <2016-03-10 Thu +1w>
+   SCHEDULED: <2016-03-24 Thu +1w>
+   - State "DONE"       from "RUNNING"    [2016-03-21 Mon 13:04]
+   - State "DONE"       from "RUNNING"    [2016-03-21 Mon 13:04]
+   :PROPERTIES:
+   :LAST_REPEAT: [2016-03-21 Mon 13:04]
+   :END:
 ** TODO Read "How to Solve It"
-   SCHEDULED: <2016-03-11 Fri +1w>
+   SCHEDULED: <2016-03-25 Fri +1w>
+   - State "DONE"       from "RUNNING"    [2016-03-21 Mon 13:04]
+   - State "DONE"       from "RUNNING"    [2016-03-21 Mon 13:04]
+   :PROPERTIES:
+   :LAST_REPEAT: [2016-03-21 Mon 13:04]
+   :END:
 * Researching up major PIs
 ** Download and organize J. K. Nørskov papers
 ** Download and organize M. Neurock papers

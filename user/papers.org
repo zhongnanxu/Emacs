@@ -32,8 +32,9 @@
 * DONE Finish first draft of polymorphs-oer manuscript for John
   CLOSED: [2015-04-28 Tue 09:32] DEADLINE: <2015-04-17 Fri>
 * TODO Work on ABO3||TiO2 Interface Paper
-  SCHEDULED: <2016-03-12 Sat +1w>
+  SCHEDULED: <2016-03-19 Sat +1w>
+  - State "DONE"       from "RUNNING"    [2016-03-21 Mon 13:04]
   - State "DONE"       from "RUNNING"    [2016-03-07 Mon 11:48]
   :PROPERTIES:
-  :LAST_REPEAT: [2016-03-07 Mon 11:48]
+  :LAST_REPEAT: [2016-03-21 Mon 13:04]
   :END:
