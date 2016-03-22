@@ -7,6 +7,8 @@
 (add-to-list 'load-path (expand-file-name "org-mode/lisp" zx-emacs-dir))
 (add-to-list 'load-path (expand-file-name "org-mode/contrib/lisp" zx-emacs-dir))
 
+(set-keyboard-coding-system nil)
+
 (when (string= system-name "gilgamesh.cheme.cmu.edu")
   (setq-default ispell-program-name "aspell"
 		ispell-personal-dictionary (concat zx-emacs-dir "user/.ispell")))
