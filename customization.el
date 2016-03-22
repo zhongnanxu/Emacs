@@ -138,7 +138,7 @@ entries in articles."
                       ;(org-agenda-todo-ignore-deadlines t)
 		      ))
 
-          ;; scheduled  past due
+          ;; scheduled past due
           (tags-todo "+SCHEDULED<=\"<today>\""
                      ((org-agenda-overriding-header "Late Scheduled")
                       ;(org-agenda-tags-todo-honor-ignore-options t)
@@ -158,23 +158,24 @@ entries in articles."
 	  (todo "TASK")
 	  ;; and last a global todo list
           (todo "TODO"))) ;; review waiting items ...other commands
-			     ;; here
-	("h" "Work todos" tags-todo
-         "-personal-doat={.+}-dowith={.+}/!-TASK"
-         ((org-agenda-todo-ignore-scheduled t)))
-        ("H" "All work todos" tags-todo "-personal/!-TASK-MAYBE"
-         ((org-agenda-todo-ignore-scheduled nil)))
-        ("A" "Work todos with doat or dowith" tags-todo
-         "-personal+doat={.+}|dowith={.+}/!-TASK"
-         ((org-agenda-todo-ignore-scheduled nil)))
-        ("j" "TODO dowith and TASK with"
-         ((org-sec-with-view "TODO dowith")
-          (org-sec-where-view "TODO doat")
-          (org-sec-assigned-with-view "TASK with")
-          (org-sec-stuck-with-view "STUCK with")))
-        ("J" "Interactive TODO dowith and TASK with"
-         ((org-sec-who-view "TODO dowith")))
 	("n" "Agenda and all TODO's" ((agenda "") (alltodo "")))))
+
+;; Team tags. See http://juanreyero.com/article/emacs/org-teams.html 
+;;("h" "Work todos" tags-todo
+;; "-personal-doat={.+}-dowith={.+}/!-TASK"
+;; ((org-agenda-todo-ignore-scheduled t)))
+;;("H" "All work todos" tags-todo "-personal/!-TASK-MAYBE"
+;; ((org-agenda-todo-ignore-scheduled nil)))
+;;("A" "Work todos with doat or dowith" tags-todo
+;; "-personal+doat={.+}|dowith={.+}/!-TASK"
+;; ((org-agenda-todo-ignore-scheduled nil)))
+;;("j" "TODO dowith and TASK with"
+;; ((org-sec-with-view "TODO dowith")
+;;  (org-sec-where-view "TODO doat")
+;;  (org-sec-assigned-with-view "TASK with")
+;;  (org-sec-stuck-with-view "STUCK with")))
+;;("J" "Interactive TODO dowith and TASK with"
+;; ((org-sec-who-view "TODO dowith")))
 
 
 ;; Special TODO Keywords for submitting and running jobs
