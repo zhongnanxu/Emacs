@@ -126,42 +126,86 @@ entries in articles."
 ;; Load my notebook file
 (org-babel-load-file "~/research/notebook.org")
 
+;; Hide the tags in agenda view. These three tags should cover all TODOs (for now)
+(setq org-agenda-hide-tags-regexp "lit_review\\|development\\|research\\|")
+
 ;; Add custom agenda command
 (setq org-agenda-custom-commands
-      '(("w" "Weekly Review"
-          (
-           ;; put a random entry at the top
-           ;(get-random-bibtex-entry)
-
-           ;; deadlines
-          (tags-todo "+DEADLINE<=\"<today>\""
-                     ((org-agenda-overriding-header "Late Deadlines")
-                      ;(org-agenda-tags-todo-honor-ignore-options t)
-                      ;(org-agenda-todo-ignore-scheduled t)
-                      ;(org-agenda-todo-ignore-deadlines t)
-		      ))
-
-          ;; scheduled past due
-          (tags-todo "+SCHEDULED<=\"<today>\""
-                     ((org-agenda-overriding-header "Late Scheduled")
-                      ;(org-agenda-tags-todo-honor-ignore-options t)
-                      ;(org-agenda-todo-ignore-scheduled t)
-                      ;(org-agenda-todo-ignore-deadlines t)
-		      ))
-
-	  ;; now the agenda
-	  (agenda ""
-		  ((org-agenda-overriding-header "weekly agenda")
-		   (org-agenda-ndays 7)
-		   (org-agenda-tags-todo-honor-ignore-options t)
-		   (org-agenda-todo-ignore-scheduled nil)
-		   (org-agenda-todo-ignore-deadlines nil)
-		   (org-deadline-warning-days 0)
-		   ))
-	  (todo "TASK")
-	  ;; and last a global todo list
-          (todo "TODO"))) ;; review waiting items ...other commands
-	("n" "Agenda and all TODO's" ((agenda "") (alltodo "")))))
+      '(("p" "Project organized TODOs"
+	 (
+	  (agenda "")
+	  (tags-todo "ABO3_TiO2_interface"
+		     ((org-agenda-overriding-header
+		       "ABO3||TiO2 interface")
+		      (org-agenda-todo-ignore-scheduled t)))
+	  (tags-todo "PtMo_alloys"
+		     ((org-agenda-overriding-header
+		       "PtMo Alloys")
+		      (org-agenda-todo-ignore-scheduled t)))
+	  (tags-todo "STEM_alloys"
+		     ((org-agenda-overriding-header
+		       "STEM characterization of alloys")
+		      (org-agenda-todo-ignore-scheduled t)))
+	  (tags-todo "multiprocessing"
+		     ((org-agenda-overriding-header
+		       "Multiprocessing python for structopt")
+		      (org-agenda-todo-ignore-scheduled t)))
+	  (tags-todo "bayesian_alpha"
+		     ((org-agenda-overriding-header
+		       "Bayesian statistics for choosing alpha")
+		      (org-agenda-todo-ignore-scheduled t)))
+	  )
+	 )
+	("k" "Task organized TODOs"
+	 (
+	  (agenda "")
+	  (tags-todo "lit_review"
+		     ((org-agenda-overriding-header
+		       "Literature Review")
+		      (org-agenda-todo-ignore-scheduled t)))
+	  (tags-todo "development"
+		     ((org-agenda-overriding-header
+		       "Code Development")
+		      (org-agenda-todo-ignore-scheduled t)))
+	  (tags-todo "research"
+		     ((org-agenda-overriding-header
+		       "Research")
+		      (org-agenda-todo-ignore-scheduled t)))
+	  )
+	 )
+	;; ("w" "Weekly Review"
+        ;;  (
+	;;   ;; deadlines
+        ;;   (tags-todo "+DEADLINE<=\"<today>\""
+        ;;              ((org-agenda-overriding-header "Late Deadlines")
+	;; 				;(org-agenda-tags-todo-honor-ignore-options t)
+	;; 				;(org-agenda-todo-ignore-scheduled t)
+	;; 				;(org-agenda-todo-ignore-deadlines t)
+	;;   	      ))
+	  
+        ;;   ;; scheduled past due
+        ;;   (tags-todo "+SCHEDULED<=\"<today>\""
+        ;;              ((org-agenda-overriding-header "Late Scheduled")
+	;; 				;(org-agenda-tags-todo-honor-ignore-options t)
+	;; 				;(org-agenda-todo-ignore-scheduled t)
+	;; 				;(org-agenda-todo-ignore-deadlines t)
+	;;   	      ))
+	  
+	;;   ;; now the agenda
+	;;   (agenda ""
+	;;   	  ((org-agenda-overriding-header "weekly agenda")
+	;;   	   (org-agenda-ndays 7)
+	;;   	   (org-agenda-tags-todo-honor-ignore-options t)
+	;;   	   (org-agenda-todo-ignore-scheduled t)
+	;;   	   (org-agenda-todo-ignore-deadlines t)
+	;;   	   (org-deadline-warning-days 0)
+	;;   	   ))
+	;;   (todo "TASK")
+	;;   ;; and last a global todo list
+	;;   (todo "TODO") ;; review waiting items ...other commands
+	;;   )
+	;;  )
+	))
 
 ;; Team tags. See http://juanreyero.com/article/emacs/org-teams.html 
 ;;("h" "Work todos" tags-todo
