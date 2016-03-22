@@ -48,5 +48,4 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (require 'customization)
-(require 'zx-agenda)
-;;; end init
+;; end init

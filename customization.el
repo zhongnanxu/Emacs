@@ -123,6 +123,9 @@ entries in articles."
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; Org-mode preferences
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Load my notebook file
+(org-babel-load-file "~/research/notebook.org")
+
 ;; Add custom agenda command
 (setq org-agenda-custom-commands
       '(("w" "Weekly Review"
