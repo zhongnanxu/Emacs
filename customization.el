@@ -138,24 +138,19 @@ entries in articles."
 	  (agenda "")
 	  (tags-todo "ABO3_TiO2_interface"
 		     ((org-agenda-overriding-header
-		       "ABO3||TiO2 interface")
-		      (org-agenda-todo-ignore-scheduled t)))
-	  (tags-todo "PtMo_alloys"
+		       "ABO3||TiO2 interface")))
+	  (tags-todo "PtMo_nanoparticles"
 		     ((org-agenda-overriding-header
-		       "PtMo Alloys")
-		      (org-agenda-todo-ignore-scheduled t)))
+		       "PtMo nanoparticles")))
 	  (tags-todo "STEM_alloys"
 		     ((org-agenda-overriding-header
-		       "STEM characterization of alloys")
-		      (org-agenda-todo-ignore-scheduled t)))
+		       "STEM characterization of alloys")))
 	  (tags-todo "multiprocessing"
 		     ((org-agenda-overriding-header
-		       "Multiprocessing python for structopt")
-		      (org-agenda-todo-ignore-scheduled t)))
+		       "Multiprocessing python for structopt")))
 	  (tags-todo "bayesian_alpha"
 		     ((org-agenda-overriding-header
-		       "Bayesian statistics for choosing alpha")
-		      (org-agenda-todo-ignore-scheduled t)))
+		       "Bayesian statistics for choosing alpha")))
 	  )
 	 )
 	("k" "Task organized TODOs"
@@ -163,16 +158,13 @@ entries in articles."
 	  (agenda "")
 	  (tags-todo "lit_review"
 		     ((org-agenda-overriding-header
-		       "Literature Review")
-		      (org-agenda-todo-ignore-scheduled t)))
+		       "Literature Review")))
 	  (tags-todo "development"
 		     ((org-agenda-overriding-header
-		       "Code Development")
-		      (org-agenda-todo-ignore-scheduled t)))
+		       "Code Development")))
 	  (tags-todo "research"
 		     ((org-agenda-overriding-header
-		       "Research")
-		      (org-agenda-todo-ignore-scheduled t)))
+		       "Research")))
 	  )
 	 )
 	;; ("w" "Weekly Review"
