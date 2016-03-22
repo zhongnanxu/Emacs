@@ -74,10 +74,35 @@ cite:guo-2013-effec
   - Keep learning
   - Your success is your own responsibility
 
-
 * <2016-03-07 Mon> Initial meeting with Insoo
   - No connection between presence of Au metallic and cationic Au and presence of defect sites
   - In contrast to Au, some MoO_{x} ended up on the SiO_{x} support
   - Though preparation is done at an inert atmosphere, all STEM characterization is done in the presence of oxygen
   - It is likely that MoO_{x} clusters could form at the surface
   - Their main hypothesis is that Mo populates the defect sites of Au/Pt
+
+* <2016-03-09 Wed> CMG Group meeting - "Precipitate Modeling of \alpha in Fe-Cr Alloys" - Jia-Hong Ke
+  - Radiation of nuclear materials
+  - Test whether short-term radiation tests could emulate long-term radiation tests
+  - Experimental evidence suggests critical differences
+  -
+* <2016-03-10 Thu> Seminar - "Nano-Bio interactions at the cell membrane interface" - Prof. Alfredo Alexander-Katz
+  - Goal is to control function of nanomaterials in biological environments
+  - Interaction between a lipid covered nanoparticle and cell membrane
+  - Hypothesis: nanoparticles enter membrane via fusion
+  - MD simulations show fusion does happen
+  - Mediated by coupling of hydrophobic tail inside membrane "lassoing" to the hydrophobic tail nailed to the nanoparticle
+  - 
+* <2016-03-14 Mon> Voyles Group Meeting - "Quantitative Measurements of Single La Vacancies in bulk LaMnO3" - Jie Feng
+  - 2: Six years? Seems like 8 years
+  - 3: Why is Delta sep not normalized?
+  - 5: Phonon simulations suggest vacancies are detectable by STEM images
+  - 7: Does this mean you can only detect vacancies at this height? 
+  - 9: 1% chemical control?
+* <2016-03-14 Mon> Seminar "CALPHAD-based Materials Genome and its Applications to Advanced Manufacturing and Materials Design" - Wei Xiong
+  - 
+* <2016-03-16 Wed> CMG Group Meeting - "Elastoplastic study of incoherent semiconductor core-shell nanowires"
+  - Strain can make indirect band-gap --> direct band-gap
+  - Goal of talk is to relate strain with defects at an epitaxial interface
+  - Very general -- 3 slides have things you're not going to talk about
+  - Slide 9 - make axes the same
