@@ -33,8 +33,6 @@
 (add-to-list 'load-path starter-kit-dir)
 (add-to-list 'load-path user-dir)
 
-;; (load-file (expand-file-name "jorg-bib.el" jmax-dir))
-;; (load-file (expand-file-name "jmax.el" starter-kit-dir))
 (require 'init)
 
 ;; These are customizations that we can add to jmax
@@ -50,5 +48,4 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (require 'customization)
-(require 'zx-agenda)
-;;; end init
+;; end init
