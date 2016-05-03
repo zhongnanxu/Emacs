@@ -152,4 +152,12 @@ If FILEXT is provided, return files with extension FILEXT instead."
 			  org-file-list) ; add files found to result
 	  (add-to-list 'org-file-list org-file)))))))
 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; org-gcal settings
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+(require 'org-gcal)
+(setq org-gcal-client-id "1059073227342-sngtjkvtlf93s1fnmkalvs1rktc9odug.apps.googleusercontent.com"
+      org-gcal-client-secret "tezHAnfxZgjQS76NdgKJwmfF"
+      org-gcal-file-alist '(("zobo030@gmail.com" .  "~/googlecalendar.org")))
+
 (provide 'customization)
