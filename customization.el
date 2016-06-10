@@ -4,8 +4,8 @@
 
 ;; use our own org-mode
 ;; load local org-mode
-(add-to-list 'load-path (expand-file-name "org-mode/lisp" zx-emacs-dir))
-(add-to-list 'load-path (expand-file-name "org-mode/contrib/lisp" zx-emacs-dir))
+;; (add-to-list 'load-path (expand-file-name "org-mode/lisp" zx-emacs-dir))
+;; (add-to-list 'load-path (expand-file-name "org-mode/contrib/lisp" zx-emacs-dir))
 
 (set-keyboard-coding-system nil)
 
