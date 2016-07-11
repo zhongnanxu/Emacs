@@ -19,13 +19,16 @@
 (add-to-list 'load-path zx-user-dir)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;; Load JMAX
+;;; Load SCIMAX or JMAX
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;; This code loads up the part of jmax that I want -- mainly things to
 ;; help with org-mode options
-(defvar starter-kit-dir (expand-file-name "jmax" zx-emacs-dir)
-  "jmax directory that contains elisp files that I might want to use")
+;; (defvar starter-kit-dir (expand-file-name "jmax" zx-emacs-dir)
+;;   "jmax directory that contains elisp files that I might want to use")
+
+(defvar starter-kit-dir (expand-file-name "scimax" zx-emacs-dir)
+  "scimax directory that contains elisp files that I might want to use")
 
 (defvar user-dir (expand-file-name "user" zx-emacs-dir)
   "user directory for personal code")
@@ -34,14 +37,6 @@
 (add-to-list 'load-path user-dir)
 
 (require 'init)
-
-;; These are customizations that we can add to jmax
-(setq reftex-default-bibliography '("~/Dropbox/bibliography/references.bib"))
-
-;; see org-ref.el for use of these variables
-(setq org-ref-bibliography-notes "~/Dropbox/bibliography/notes.org"
-      org-ref-default-bibliography '("~/Dropbox/bibliography/library.bib")
-      org-ref-pdf-directory "~/Dropbox/bibliography/bibtex-pdfs/")
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; Load my own code

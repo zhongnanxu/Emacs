@@ -1,22 +1,11 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;; Settings we want to do after we load JMAX
+;;; Settings we want to do after we load SCIMAX                    ;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;; use our own org-mode
-;; load local org-mode
-;; (add-to-list 'load-path (expand-file-name "org-mode/lisp" zx-emacs-dir))
-;; (add-to-list 'load-path (expand-file-name "org-mode/contrib/lisp" zx-emacs-dir))
 
 (set-keyboard-coding-system nil)
 
 (when (string= system-name "gilgamesh.cheme.cmu.edu")
   (setq-default ispell-program-name "aspell"
-		ispell-personal-dictionary (concat zx-emacs-dir "user/.ispell")))
-
-(when (or (string= system-name "ZURFACE-PC")
-	  (string= system-name "ZX-HOME-PC"))
-  ;;(add-to-list 'exec-path "C:/Program Files (x86)/Aspell/bin/")
-  (setq-default ispell-program-name "C:/Program Files (x86)/Aspell/bin/aspell.exe"
 		ispell-personal-dictionary (concat zx-emacs-dir "user/.ispell")))
 
 (add-to-list 'load-path zx-user-dir)
@@ -26,75 +15,17 @@
 ;; Make images the same size
 (setq org-image-actual-width nil)
 
-;; Deactivate pycheck, because I don't need it
-(setq jmax-run-pycheck nil)
-(ad-deactivate 'org-babel-execute:python)
-
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;; Automatic Capitalization for references
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-(defvar jmax-lower-case-words
-  '("a" "an" "on" "and" "for"
-    "the" "of" "in")
-  "List of words to keep lowercase")
-
-(defun jmax-title-case-article (&optional key start end)
-  "Convert a bibtex entry article title to title-case. The
-arguments are optional, and are only there so you can use this
-function with `bibtex-map-entries' to change all the title
-entries in articles."
-  (interactive)
-  (bibtex-beginning-of-entry)
-
-  (let* ((title (bibtex-autokey-get-field "title"))
-         (words (split-string title))
-         (lower-case-words '("a" "an" "on" "and" "for"
-                             "the" "of" "in")))
-    (when
-        (string= "article" (downcase (cdr (assoc "=type=" (bibtex-parse-entry)))))
-      (setq words (mapcar
-                   (lambda (word)
-                     (if (or
-                          ;; match words containing {} or \ which are probably
-                          ;; LaTeX or protected words
-                          (string-match "\\$\\|{\\|}\\|\\\\" word)
-                          ;; these words should not be capitalized, unless they
-                          ;; are the first word
-                          (-contains? lower-case-words (s-downcase word)))
-                         word
-                       (s-capitalize word)))
-                   words))
-
-      ;; Check if first word should be capitalized
-      (when (-contains? jmax-lower-case-words (car words))
-        (setf (car words) (s-capitalize (car words))))
-            
-      ;; this is defined in doi-utils
-      (bibtex-set-field
-       "title"
-       (mapconcat 'identity words " "))
-      (bibtex-fill-entry))))
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;; Personal Preferences
+;;; Personal Preferences                                           ;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;; Set the username and email
 (setq user-full-name "Zhongnan Xu")
-(setq user-mail-address "zhongnanxu@cmu.edu")
+(setq user-mail-address "zhongnan.xu@gmail.com")
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;; Basic Preferences
+;;; Basic Preferences                                              ;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;; ;; load the solarized color theme
-;; (add-to-list 'custom-theme-load-path (expand-file-name "emacs-color-theme-solarized" zx-emacs-dir))
-;; (load-theme 'solarized-light t)
-
-;; ;; make code blocks stand out a little from my gray80 background
-;; (if (display-graphic-p)
-;;   (set-face-attribute 'org-block-background nil :background "lemon chiffon")
-;;   (set-face-attribute 'org-block-background nil :background nil))
 
 (setq frame-title-format "%b - Emacs") ;; Set the title to the current buffer
 (tool-bar-mode 0) ;; remove the icons)
@@ -122,12 +53,13 @@ entries in articles."
 
 (setq org-image-actual-width '(600))
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;; Org-mode preferences
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Initialize my notebook
 (load-file "~/research/init.el")
 (org-babel-load-file "~/research/notebook.org")
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Custom emacs functions (that I usually do not use)             ;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;; recursively find .org files in provided directory
 ;; modified from an Emacs Lisp Intro example. Taken from https://github.com/suvayu/.emacs.d.git
