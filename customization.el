@@ -57,6 +57,9 @@
 (load-file "~/research/init.el")
 (org-babel-load-file "~/research/notebook.org")
 
+;; Don't insert tabs (Jason told me to add this)
+(setq-default indent-tabs-mode nil)
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; Custom emacs functions (that I usually do not use)             ;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
