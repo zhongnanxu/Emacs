@@ -1,16 +1,24 @@
 
 ;; ----- smex-history -----
 (
- comment-region
- cd
- jb
- 5x5
- arp
- dbx
- dig
+ org-mode
+ shell
+ lispy-mode
+ org-ref-open-bibtex-pdf
+ doi-utils-add-bibtex-entry-from-doi
+ org-ref-set-bibtex-keywords
+ org-ref-open-pdf-at-point
 )
 
 ;; ----- smex-data -----
 (
  (comment-region . 2)
+ (doi-utils-add-bibtex-entry-from-doi . 2)
+ (org-ref-open-bibtex-pdf . 3)
+ (org-ref-bibtex-hydra/org-ref-open-bibtex-notes-and-exit . 1)
+ (org-ref-set-bibtex-keywords . 7)
+ (org-ref-open-pdf-at-point . 1)
+ (shell . 5)
+ (lispy-mode . 1)
+ (org-mode . 4)
 )
